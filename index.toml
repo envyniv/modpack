@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "06250d70894edf1c103aa82fd034fd8718d8f409c1db2b2de1e1c614b266e2eb"
+hash = "6fffb74a929bbb5b3ce2f53646f078cb941ad3ba41e262edbe74d9647fe06d48"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterfps.pw.toml"
-hash = "1d7be9acf687897e75921e34c3236d3a78364d140c13b6c9ac4c4293635a6ebc"
+hash = "14fa4fac8d12ca6bef0104a0666256dc8c24b7693672d6be4e31c4d543c26007"
 metafile = true
 
 [[files]]
@@ -67,17 +67,17 @@ metafile = true
 
 [[files]]
 file = "mods/chicken-chunk-patcher.pw.toml"
-hash = "b1f72b2249fbd1fb37ceaa3669e6a7812d5feb582b210857673fafa4dc89400c"
+hash = "18ec9ce02d16957917ef4e5fd95209d8992462c5536bb2ada38a801b92f14037"
 metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
-hash = "7573e2d17b73014f8183165dc0f26f706b9768d02e9d52863fcf5ba8fd6307f4"
+hash = "52a629911e54083ac1059d78cf8b714667403c2d94426d97a6b15fa4c93a46a9"
 metafile = true
 
 [[files]]
 file = "mods/damage-indicators-mod.pw.toml"
-hash = "db931ca8e4c7f27e78174141af3cd737cec5f29462eda7def4c22a46a75c023d"
+hash = "7d0edbec6ac2106bd8d80116505094151b21d5f717fa85b902dfc426f6716bc0"
 metafile = true
 
 [[files]]
@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "aa72c7558979fccd9a985ab13a5e66ee0b2c3af52f2f7815129a92a828dbb157"
+hash = "75cb12742187b1f4af0335e533aab6ead3125e323e3d3897df35a94f42ece626"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-server-moderation.pw.toml"
-hash = "53ec912c17b2d1583966268284115867d1694139e1d80475bad99d79721fb961"
+hash = "b5caab4b150e697dba5ed1268c1873f1de1a2a490902e38f550a8576d37b517a"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/fastcraft.pw.toml"
-hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
+hash = "1e0c92e0fad09e28b41ed1928dd64d2006536e123e373e5eb25e5d7455353efa"
 metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "89ce52a018946eab3ce62e06e837fd257fc306921ece0e67cbf6cfc3b9c1d0f5"
+hash = "fb74b09f78bcdbdff2ac1e9beaace6369ab5357fb240f0741fb88fc68298f359"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/morpheus.pw.toml"
-hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
+hash = "82c19a386d3d5aa1db070f10cb6e6159fca1e171b1da5213eebc3bc745b1fc21"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/project-74246.pw.toml"
-hash = "dae0b8839f62a9b3c1d1c2f8a6ee4854ef45eba405852a85b9d3b2a6e2e45091"
+hash = "c0e9792cbabfbe390cf0c9b95c2a041ffc72c59fc50c13e9736ac49d5f3b1307"
 metafile = true
 
 [[files]]
@@ -252,17 +252,17 @@ metafile = true
 
 [[files]]
 file = "mods/recurrent-complex-unofficial.pw.toml"
-hash = "cb0b74ad558cff8eb32e1f7d9ab93a3f2000f28fccac706e0231978644be11cc"
+hash = "b51f28225c5dd93b924e4efe664e6a26dc137b542d13d36f637d34678c23352a"
 metafile = true
 
 [[files]]
 file = "mods/roguelike-dungeons.pw.toml"
-hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
+hash = "15b80c312c7cb0bb2b68127ecfb78a4c792e35fe9cf46c7a0991c2f655a5eb81"
 metafile = true
 
 [[files]]
 file = "mods/server-tab-info.pw.toml"
-hash = "ec80b3887fc934b94612550799ea06898d968b703f658499d11e8b919bee6b11"
+hash = "9149130474647d440419544c602cb053927d5747020a799ebe6116276ff49867"
 metafile = true
 
 [[files]]
@@ -292,10 +292,34 @@ metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
-hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
+hash = "e92e390abfdf767e57b53223991680019fd279c64467b70e5a1dd40f41644e1c"
 metafile = true
 
 [[files]]
 file = "mods/witchery.pw.toml"
 hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
+metafile = true
+
+# |'''. |'| |'''\ |'''| |'''| |'''|
+# | o | | | | ì . | ==  | |_  '| |'
+# |___' |_| |_|\_\|___| |___7  |_|
+
+[[files]]
+file = "mods/nei-gtnh.pw.toml"
+hash = "72cf45350d22d369e9f504f80cfe1df2ab932a3c3562b4954ce1ed80afea3dbf"
+metafile = true
+
+[[files]]
+file = "mods/orespawn.toml"
+hash = "e55f0e14d6a4b8b983e6a67bca6a2a075a0c19bb9aece1406852de4b3eb82e58"
+metafile = true
+
+[[files]]
+file = "mods/galacticraftcore.toml"
+hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
+metafile = true
+
+[[files]]
+file = "mods/micdoodle.toml"
+hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
 metafile = true
