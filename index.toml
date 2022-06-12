@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-villages.pw.toml"
-hash = "15807675154914461919d9df6ddf8c23c7261ee3c23abc2da480df873de1f2c5"
+hash = "9887f8f51bbd9bbe63e6d70aa5c9323adf5c403da1ef6c90d52dfa7ecd2d2fd6"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/official-divinerpg.pw.toml"
-hash = "868892ea16e06e32a332da7e04a659bd5e77e11a52e4720ae57c7f3a17c2a12a"
+hash = "60779d174ea0c4ae0d399e9d08ff3bac0107edef2343af792a4ea73308ef6628"
 metafile = true
 
 [[files]]
