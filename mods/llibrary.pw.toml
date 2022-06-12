@@ -1,0 +1,13 @@
+name = "LLibrary"
+filename = "llibrary-1.5.1-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95a6e6d375d2a2ff846722e2a0114b14447be153"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2319767
+project-id = 243298

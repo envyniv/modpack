@@ -1,0 +1,13 @@
+name = "Server Tab Info"
+filename = "ServerTabInfo-1.7.10-Final-b3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c1c98d5a63b0034c8ef22af170251ea4ac2c6685"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2863026
+project-id = 291788

@@ -1,0 +1,13 @@
+name = "WA-CodeChickenCore"
+filename = "WA-CodeChickenCore-1.7.10-1.0.7.null-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1a27889d7c4355cbe887d1cfa1a3015d39fbaab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2642598
+project-id = 307984

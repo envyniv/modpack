@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "Dynamic Lights-1.3.9a-MC1.7.10.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "29d3b44b0af61be6fb19865817231af37a7d21b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2337326
+project-id = 227874

@@ -1,0 +1,13 @@
+name = "Buffed Tools"
+filename = "BuffedTools-1.1.1710.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfb01400183f3c500a05b525cf3df512ef6e1383"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2237100
+project-id = 230222

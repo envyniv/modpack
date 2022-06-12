@@ -1,0 +1,13 @@
+name = "Enhanced Server Moderation"
+filename = "EnhancedServerModeration-1.7.10-0.9.9.70.jar"
+side = "server"
+
+[download]
+hash-format = "murmur2"
+hash = "2327854262"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233078
+project-id = 224460

@@ -1,0 +1,13 @@
+name = "Chicken Chunk Patcher"
+filename = "Chicken Chunk Patcher 1.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "09cab8c2ae17850cb465bb44066e56ac780d8799"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2518745
+project-id = 285063

@@ -1,0 +1,11 @@
+name = "Micdoodle8's Galacticraft"
+filename = "GalacticraftCore-1.7-3.0.12.504.jar"
+side = "both"
+
+[download]
+url = "https://micdoodle8.com/new-builds/GC-1.7/504/GalacticraftCore-1.7-3.0.12.504.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ef3b2de44c99abae166466b101237075b93c433488c63e9a2210059a37e5ba43"

@@ -1,0 +1,13 @@
+name = "Pazzo Sgravato Anoinonpia"
+author = "envy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20a40bd2bf98bae705032b319f8ee7d0dd7b6a9118d7dfde021f9079324cf389"
+
+[versions]
+forge = "10.13.0.1150"
+minecraft = "1.7.10"

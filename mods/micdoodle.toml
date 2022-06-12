@@ -1,0 +1,11 @@
+name = "Micdoodle8's Core Library"
+filename = "MicdoodleCore-1.7-3.0.12.504.jar"
+side = "both"
+
+[download]
+url = "https://micdoodle8.com/new-builds/GC-1.7/504/MicdoodleCore-1.7-3.0.12.504.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b3a1f3ce504aa4236e571a73da6a6cb639e43da8a1f08c30972dfa2b86c9ea6c"

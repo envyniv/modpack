@@ -1,0 +1,13 @@
+name = "The Farlanders"
+filename = "farlanders-1.7.10-v1.2b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "058df02f7d7e3d25fed24fbe9fb999bc385017ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2777303
+project-id = 336432

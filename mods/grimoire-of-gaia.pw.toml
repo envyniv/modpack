@@ -1,0 +1,13 @@
+name = "Grimoire of Gaia"
+filename = "GrimoireOfGaia3-1.7.10-1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0182b425cd6c52597d0966df70c274f6b3ceb69d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2260836
+project-id = 228948

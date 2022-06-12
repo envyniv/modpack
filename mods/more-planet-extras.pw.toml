@@ -1,0 +1,13 @@
+name = "More Planets Extras"
+filename = "MorePlanetsExtras-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de36ca7e756e6b7bccf8781d10b33f6f86519ffc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2412332
+project-id = 266184

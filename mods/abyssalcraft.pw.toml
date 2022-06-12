@@ -1,0 +1,13 @@
+name = "AbyssalCraft"
+filename = "AbyssalCraft-1.7.10-1.9.1.3-FINAL.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ab98edfade96b059c4a863a6ce3f210637267d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2311135
+project-id = 53686
