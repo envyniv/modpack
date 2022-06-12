@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+
+[[files]]
 file = "mods/abyssalcraft.pw.toml"
 hash = "bdd3bec13f6133a5997b6a9be7ea22cef24b719f284f73ec70796b154f1d5061"
 metafile = true
@@ -121,6 +125,11 @@ hash = "fe0e466df698b587b51ad5e3fbac014d75190e36302f4854b4e65e461c6a5767"
 metafile = true
 
 [[files]]
+file = "mods/galacticraftcore.toml"
+hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
+metafile = true
+
+[[files]]
 file = "mods/grimoire-of-gaia.pw.toml"
 hash = "996b3c8efe966976135e3fa0e38fbf8bbe8560638995a4063eadad7a86777397"
 metafile = true
@@ -176,6 +185,16 @@ hash = "6d045cf0350c4241effd977fa96d340945e01664a364b3a249e1a3249492c724"
 metafile = true
 
 [[files]]
+file = "mods/micdoodle.toml"
+hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
+metafile = true
+
+[[files]]
+file = "mods/minemenu.pw.toml"
+hash = "245393ce61384f9cd68ebf9cc766b528528592ac34b6fb9ce822a4f778b5d18d"
+metafile = true
+
+[[files]]
 file = "mods/mo-villages.pw.toml"
 hash = "15807675154914461919d9df6ddf8c23c7261ee3c23abc2da480df873de1f2c5"
 metafile = true
@@ -216,6 +235,11 @@ hash = "be6904182e0630af0a35c6a9f334bdd055900413e0aae6549cc58a40ae11371c"
 metafile = true
 
 [[files]]
+file = "mods/nei-gtnh.pw.toml"
+hash = "72cf45350d22d369e9f504f80cfe1df2ab932a3c3562b4954ce1ed80afea3dbf"
+metafile = true
+
+[[files]]
 file = "mods/official-divinerpg.pw.toml"
 hash = "868892ea16e06e32a332da7e04a659bd5e77e11a52e4720ae57c7f3a17c2a12a"
 metafile = true
@@ -228,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/openmodslib.pw.toml"
 hash = "88228e57a4fa45d05005fc05df0902ae603f70b348557deb2a2bea9e3549b74d"
+metafile = true
+
+[[files]]
+file = "mods/orespawn.toml"
+hash = "e55f0e14d6a4b8b983e6a67bca6a2a075a0c19bb9aece1406852de4b3eb82e58"
 metafile = true
 
 [[files]]
@@ -298,28 +327,4 @@ metafile = true
 [[files]]
 file = "mods/witchery.pw.toml"
 hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
-metafile = true
-
-# |'''. |'| |'''\ |'''| |'''| |'''|
-# | o | | | | ì . | ==  | |_  '| |'
-# |___' |_| |_|\_\|___| |___7  |_|
-
-[[files]]
-file = "mods/nei-gtnh.pw.toml"
-hash = "72cf45350d22d369e9f504f80cfe1df2ab932a3c3562b4954ce1ed80afea3dbf"
-metafile = true
-
-[[files]]
-file = "mods/orespawn.toml"
-hash = "e55f0e14d6a4b8b983e6a67bca6a2a075a0c19bb9aece1406852de4b3eb82e58"
-metafile = true
-
-[[files]]
-file = "mods/galacticraftcore.toml"
-hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
-metafile = true
-
-[[files]]
-file = "mods/micdoodle.toml"
-hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
 metafile = true
