@@ -1,6 +1,6 @@
 name = "BetterFps"
 filename = "BetterFps-1.0.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

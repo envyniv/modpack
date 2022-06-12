@@ -1,6 +1,6 @@
 name = "AI Improvements"
 filename = "AIImprovements-1.7.10-0.0.1b8.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
