@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/damage-indicators-mod.pw.toml"
-hash = "7d0edbec6ac2106bd8d80116505094151b21d5f717fa85b902dfc426f6716bc0"
+hash = "7d96dca656904e60a040bd39ce0419d40ba0388194a1dc204e8d5df0c564868e"
 metafile = true
 
 [[files]]
