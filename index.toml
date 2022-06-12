@@ -443,6 +443,7 @@ metafile = true
 [[files]]
 file = "mods/galacticraft-planets.toml"
 hash = "a795a6dec2e16caded98d7d20a95e895b4af7239d3f4e4272ae5a6a870643975"
+metafile = true
 
 [[files]]
 file = "mods/galacticraftcore.toml"
