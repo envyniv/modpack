@@ -441,6 +441,10 @@ hash = "ccb946230c1731a817e698a3548d2534f434b133f5d30204118d0d045e93b149"
 metafile = true
 
 [[files]]
+file = "mods/galacticraft-planets.toml"
+hash = "a795a6dec2e16caded98d7d20a95e895b4af7239d3f4e4272ae5a6a870643975"
+
+[[files]]
 file = "mods/galacticraftcore.toml"
 hash = "66c1e8066a65c1558143b53fc3d2c17be1bdd525a714ca5aa8be00104905542e"
 metafile = true
@@ -513,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/mo-villages.toml"
 hash = "84aa1f22120da4aceeac612ce3e1717cc3d6f2c28eb6af11a8c2271715522d7e"
+metafile = true
+
+[[files]]
+file = "mods/more-planet-extras.pw.toml"
+hash = "f248ebd36864b28f6e0551fd823b2013490079c5aee0ded0662022655c7cca6a"
 metafile = true
 
 [[files]]
