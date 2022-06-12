@@ -200,11 +200,6 @@ hash = "84aa1f22120da4aceeac612ce3e1717cc3d6f2c28eb6af11a8c2271715522d7e"
 metafile = true
 
 [[files]]
-file = "mods/more-planet-extras.pw.toml"
-hash = "f248ebd36864b28f6e0551fd823b2013490079c5aee0ded0662022655c7cca6a"
-metafile = true
-
-[[files]]
 file = "mods/more-planets-gc-addon.pw.toml"
 hash = "3fde56687fc77227d2a0d18d2a62441aaa315c2505f8e4899b6406320740f875"
 metafile = true
