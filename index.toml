@@ -396,6 +396,11 @@ hash = "52a629911e54083ac1059d78cf8b714667403c2d94426d97a6b15fa4c93a46a9"
 metafile = true
 
 [[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+metafile = true
+
+[[files]]
 file = "mods/damage-indicators-mod.toml"
 hash = "df97937a08065ef8bba20df4da55502a8dcd94a5a05076383a993e0dd20d1bfc"
 metafile = true
