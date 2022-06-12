@@ -1,0 +1,11 @@
+name = "Damage Indicators Mod"
+filename = "DamageIndicatorsMod-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.org/download/damage-indicators-mod-3.3.2/DamageIndicatorsMod-3.3.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "86c858dc943aca63a54157b758433f65353c959a54c48933c49d6c8cc02d3f84"

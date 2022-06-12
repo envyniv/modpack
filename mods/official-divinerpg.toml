@@ -1,0 +1,11 @@
+name = "DivineRPG (Official)"
+filename = "DivineRPG-1.4.1.5.jar"
+side = "both"
+
+[download]
+url = "https://archive.org/download/divine-rpg-1.4.1.5/DivineRPG-1.4.1.5.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "22a0a13ab2d9903515f44f5b29846ef172d9df5ead30de4b532326288e750666"

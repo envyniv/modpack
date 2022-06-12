@@ -1,0 +1,11 @@
+name = "Mo' Villages"
+filename = "MoVillages-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.org/download/mo-villages-1.4.2/MoVillages-1.4.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a593e128c1fd2e9c297199101923204810b322143079d3d8be69cffec68bfc3a"

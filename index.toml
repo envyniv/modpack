@@ -80,8 +80,8 @@ hash = "52a629911e54083ac1059d78cf8b714667403c2d94426d97a6b15fa4c93a46a9"
 metafile = true
 
 [[files]]
-file = "mods/damage-indicators-mod.pw.toml"
-hash = "7d96dca656904e60a040bd39ce0419d40ba0388194a1dc204e8d5df0c564868e"
+file = "mods/damage-indicators-mod.toml"
+hash = "df97937a08065ef8bba20df4da55502a8dcd94a5a05076383a993e0dd20d1bfc"
 metafile = true
 
 [[files]]
@@ -195,8 +195,8 @@ hash = "245393ce61384f9cd68ebf9cc766b528528592ac34b6fb9ce822a4f778b5d18d"
 metafile = true
 
 [[files]]
-file = "mods/mo-villages.pw.toml"
-hash = "9887f8f51bbd9bbe63e6d70aa5c9323adf5c403da1ef6c90d52dfa7ecd2d2fd6"
+file = "mods/mo-villages.toml"
+hash = "84aa1f22120da4aceeac612ce3e1717cc3d6f2c28eb6af11a8c2271715522d7e"
 metafile = true
 
 [[files]]
@@ -240,8 +240,8 @@ hash = "72cf45350d22d369e9f504f80cfe1df2ab932a3c3562b4954ce1ed80afea3dbf"
 metafile = true
 
 [[files]]
-file = "mods/official-divinerpg.pw.toml"
-hash = "60779d174ea0c4ae0d399e9d08ff3bac0107edef2343af792a4ea73308ef6628"
+file = "mods/official-divinerpg.toml"
+hash = "f7df2ebac887fe2fdb658ef1b183fdfcaaf04e860b5100760918cfcf52192f82"
 metafile = true
 
 [[files]]
