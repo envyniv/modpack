@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "dd83b98ba18c6274fb14f2a5e02bceab825432b8660debc6d9117e4c568fec35"
+
+[[files]]
 file = "config/DamageIndicatorsMod.cfg"
 hash = "784ee0115e1d6ead0111356d068bbfc5945027bcacff30be29ef3570a81dd000"
 
@@ -13,8 +17,20 @@ file = "config/DivineRPG.cfg"
 hash = "8d431819071c1ce7b87ed7bf231e958da01274ffcde4aad1d99ba9ac63ddefe5"
 
 [[files]]
+file = "config/DummyCore.cfg"
+hash = "a7501672d0f4208dc631a88f3645b1882b1a8d5ffa1707bd7061c514bd0bbc67"
+
+[[files]]
 file = "config/FpsReducer/FpsReducer.cfg"
 hash = "d2e3c9ff6b4c39c4a5faab3056419021acc35c9c9f6b65c2c7ea69d6421801c5"
+
+[[files]]
+file = "config/MUD.cfg"
+hash = "b83779a988b60c23aabcce10c28f83dd5e78f6b0c2dada0f539d968b06499773"
+
+[[files]]
+file = "config/OpenBlocks.cfg"
+hash = "40cf43a76c9175fdc8190b5031747ae3d3eff74350f3974afeafbfe2dedf2233"
 
 [[files]]
 file = "config/RandomThings.cfg"
@@ -63,6 +79,10 @@ hash = "a52445a3676c913a0400f176d25b6fa3fbb5587c12fff9ff360ee6c62276a6eb"
 [[files]]
 file = "config/biomesoplenty/terraingen.cfg"
 hash = "979231f58db126211f02157b3cab897affbcb09f2b7f4a8862d9deac40545ea2"
+
+[[files]]
+file = "config/dmod.cfg"
+hash = "ed5c29ea467166448b9ccf79388aa86f8b6f9af86f07d271dfbd5740d80c3508"
 
 [[files]]
 file = "config/pandorasbox.cfg"
@@ -199,6 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-backpacks.pw.toml"
+hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]

@@ -6,21 +6,16 @@ my packwiz modpack; intended for use with Minecraft 1.7.10 through the MultiMC I
 
   - Random Things
   - Biomes O' Plenty
-  - Galacticraft
   - Divine RPG
-  - Witchery
   - Mo' Villages
   - Morph
   - Mowzie's Mobs
   - OpenBlocks
   - Mutant Creatures Mod
   - Natura
-  - Orespawn
   - Pandora's Box
-  - More Planets
-  - More Planets Extras
   - The Aether
-  - ProjectE
+  - EELimited
   - Tinkers' Construct
   - Twilight Forest
   - Mine & Blade: Battlegear 2
@@ -36,19 +31,18 @@ my packwiz modpack; intended for use with Minecraft 1.7.10 through the MultiMC I
   - Inventory Pets
   - Iron Chests
   - Iron Furnaces
-  - Thaumcraft
+  - Electroblob's Wizardry
+  - Backpacks
 
 ### Libraries:
 
   - Bookshelf
   - Mantle
   - iChunUtils
-  - Baubles
   - LLibrary
-  - Micdoodle8's library
   - OpenModsLib
   - AnimationAPI
-  - WA-CodeChickenCore
+  - CodeChickenCore
   - IvToolkit
   - DummyCore
 
