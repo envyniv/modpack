@@ -1,0 +1,13 @@
+name = "Et Futurum Requiem [1.7.10 ONLY]"
+filename = "Et_Futurum_Requiem-2.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f7209c7c54be4f17dfd85e87d43811b22c45b7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3565949
+project-id = 441392

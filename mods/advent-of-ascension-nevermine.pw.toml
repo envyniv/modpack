@@ -1,0 +1,13 @@
+name = "Advent of Ascension (Nevermine)"
+filename = "Nevermine-Tslat-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fa3632beb00191714a9f2a195e13d2a0e7a65a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2973564
+project-id = 311054

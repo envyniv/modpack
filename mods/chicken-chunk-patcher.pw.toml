@@ -1,6 +1,6 @@
 name = "Chicken Chunk Patcher"
 filename = "Chicken Chunk Patcher 1.1.jar"
-side = "server"
+side = "servers"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Recurrent Complex Unofficial"
 filename = "RecurrentComplex-0.9.7.1.2_Unoffical.jar"
-side = "server"
+side = "optional"
 
 [download]
 hash-format = "sha1"

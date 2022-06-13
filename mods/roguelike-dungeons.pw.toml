@@ -1,6 +1,6 @@
 name = "Roguelike Dungeons"
 filename = "roguelike-1.7.10-1.5.0b.jar"
-side = "server"
+side = "optional"
 
 [download]
 hash-format = "sha1"
