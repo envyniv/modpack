@@ -198,6 +198,10 @@ hash = "fb74b09f78bcdbdff2ac1e9beaace6369ab5357fb240f0741fb88fc68298f359"
 metafile = true
 
 [[files]]
+file = "mods/forge-backpacks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "ccb946230c1731a817e698a3548d2534f434b133f5d30204118d0d045e93b149"
 metafile = true
@@ -220,11 +224,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-pets.pw.toml"
 hash = "69ca598f8b675216b74b5628843b19bc9237014946ff1a5c3f67e754c0597a11"
-metafile = true
-
-[[files]]
-file = "mods/iron-backpacks.pw.toml"
-hash = "561a3c25674ab6ede177ce20f8c6c85936037a728f86970d5443ab7326eb6624"
 metafile = true
 
 [[files]]
