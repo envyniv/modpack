@@ -225,6 +225,7 @@ metafile = true
 [[files]]
 file = "mods/eelimited.toml"
 hash = "581613ebd6d7764e116166efac6f5496c05f363b61bf3dd63b9aa0478339aa78"
+metafile = true
 
 [[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
