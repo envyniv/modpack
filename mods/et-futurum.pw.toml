@@ -1,0 +1,13 @@
+name = "Et Futurum"
+filename = "Et Futurum-1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67d8d46d28c4c22902fb3184613c966bdf960017"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2281148
+project-id = 230114

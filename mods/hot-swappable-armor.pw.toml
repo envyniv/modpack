@@ -1,0 +1,13 @@
+name = "Hot-Swappable Armor"
+filename = "Hot-Swappable_Armor_v1.0_mc_v1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e689dbdc78265f937a9bd920ce6b7abc21497dde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2466241
+project-id = 274560

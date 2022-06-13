@@ -5,8 +5,24 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/DamageIndicatorsMod.cfg"
+hash = "784ee0115e1d6ead0111356d068bbfc5945027bcacff30be29ef3570a81dd000"
+
+[[files]]
 file = "config/DivineRPG.cfg"
-hash = "795916a604c0f72c43c2805fbba4c92d928b600bcea533762eaaf200c60d3d81"
+hash = "8d431819071c1ce7b87ed7bf231e958da01274ffcde4aad1d99ba9ac63ddefe5"
+
+[[files]]
+file = "config/FpsReducer/FpsReducer.cfg"
+hash = "d2e3c9ff6b4c39c4a5faab3056419021acc35c9c9f6b65c2c7ea69d6421801c5"
+
+[[files]]
+file = "config/RandomThings.cfg"
+hash = "7551cebaf06251675e5c63338461284ce8865f6b696ec6cc59bac6a5cc5a48e2"
+
+[[files]]
+file = "config/UpdateCheckLib.cfg"
+hash = "108bab32e653b646ead348295804e30d0b6b2438764f5115ab20d6d0608b26cf"
 
 [[files]]
 file = "config/abyssalcraft.cfg"
@@ -14,7 +30,7 @@ hash = "4bf866da04c8448170214cb31e36b61418b383d6c39b41e0c149374a0b468dab"
 
 [[files]]
 file = "config/aether/AetherI.cfg"
-hash = "827ad24f3c28264d0dffabca9020db4cc16d1dd30c0cfec45f8e747f500ce77d"
+hash = "f5f701988b7064708aab4d8be93aeaa568d6ab5ac1a0b4f48669f50894fcfaab"
 
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
@@ -49,6 +65,10 @@ file = "config/biomesoplenty/terraingen.cfg"
 hash = "979231f58db126211f02157b3cab897affbcb09f2b7f4a8862d9deac40545ea2"
 
 [[files]]
+file = "config/pandorasbox.cfg"
+hash = "e94412327c8ad2f635e93bdb10606d86eb87da53977c3f2f945d8cf7c745f922"
+
+[[files]]
 file = "mods/abyssalcraft.pw.toml"
 hash = "bdd3bec13f6133a5997b6a9be7ea22cef24b719f284f73ec70796b154f1d5061"
 metafile = true
@@ -56,11 +76,6 @@ metafile = true
 [[files]]
 file = "mods/advent-of-ascension-nevermine.pw.toml"
 hash = "f090d18a66c1fc4903fefb4852ed1ef14ade3d9ee888833dcf19712ddbe63987"
-metafile = true
-
-[[files]]
-file = "mods/adventure-backpack.pw.toml"
-hash = "10c8d064696a30271f4e841bb3f884b5219b5d32b6907c7b7a21b68a88bf63b6"
 metafile = true
 
 [[files]]
@@ -114,11 +129,6 @@ hash = "efec9ea405dab66fc161d83fb1e691a7835bc2034bec6b77d9a84b219f092740"
 metafile = true
 
 [[files]]
-file = "mods/campfire-backport.pw.toml"
-hash = "664fbcd8d4a791279a1b3e7c94738735aebb66d091bec1bc24ed02d5dd3e61b5"
-metafile = true
-
-[[files]]
 file = "mods/chicken-chunk-patcher.pw.toml"
 hash = "d0e925d029d79a81b2ab15006ed05a5fbab3dce217bc6a85a536a86e929176db"
 metafile = true
@@ -154,6 +164,10 @@ hash = "75cb12742187b1f4af0335e533aab6ead3125e323e3d3897df35a94f42ece626"
 metafile = true
 
 [[files]]
+file = "mods/eelimited.toml"
+hash = "581613ebd6d7764e116166efac6f5496c05f363b61bf3dd63b9aa0478339aa78"
+
+[[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
 hash = "2a0c08993411b67ddd8f67c411c00307106e193d41e490328d4914a544de8f52"
 metafile = true
@@ -164,8 +178,8 @@ hash = "b5caab4b150e697dba5ed1268c1873f1de1a2a490902e38f550a8576d37b517a"
 metafile = true
 
 [[files]]
-file = "mods/et-futurum-requiem.pw.toml"
-hash = "27c932a901596a96c6762f57adf189a11860f65bdbb983519b93158b491e7e32"
+file = "mods/et-futurum.pw.toml"
+hash = "c6af56fcd443c9e28b8411d0f6d8abc29218dfcfbf7c4019dd894c0bf5d6a0bf"
 metafile = true
 
 [[files]]
@@ -194,6 +208,11 @@ hash = "996b3c8efe966976135e3fa0e38fbf8bbe8560638995a4063eadad7a86777397"
 metafile = true
 
 [[files]]
+file = "mods/hot-swappable-armor.pw.toml"
+hash = "2b203e072dfd09dd4a4b9b4f77c77805cf82730e2eaa1b15433463a5ec5eafee"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
 metafile = true
@@ -201,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-pets.pw.toml"
 hash = "69ca598f8b675216b74b5628843b19bc9237014946ff1a5c3f67e754c0597a11"
+metafile = true
+
+[[files]]
+file = "mods/iron-backpacks.pw.toml"
+hash = "561a3c25674ab6ede177ce20f8c6c85936037a728f86970d5443ab7326eb6624"
 metafile = true
 
 [[files]]
@@ -279,8 +303,8 @@ hash = "be6904182e0630af0a35c6a9f334bdd055900413e0aae6549cc58a40ae11371c"
 metafile = true
 
 [[files]]
-file = "mods/nei-gtnh.toml"
-hash = "72cf45350d22d369e9f504f80cfe1df2ab932a3c3562b4954ce1ed80afea3dbf"
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "d422f7fe1aaaf5999ff7e738bc51f65c912ffd7cf52d58ca97ec94f5b721e009"
 metafile = true
 
 [[files]]
@@ -306,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/project-74246.pw.toml"
 hash = "115808077c2cfa5e8ea451adff42df3bab927792415323a0a88dc343c6a4672e"
-metafile = true
-
-[[files]]
-file = "mods/projecte.pw.toml"
-hash = "efa637ee3c18a2bd7bae2de42792cd9593260da067c2fd0e9f36202dbe37938b"
 metafile = true
 
 [[files]]
