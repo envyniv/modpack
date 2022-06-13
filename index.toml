@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/AoA.cfg"
+hash = "914800534666815c319e87d3ed16e11001adc7918b4085243cb0ed3e05575e5a"
+
+[[files]]
 file = "config/CodeChickenCore.cfg"
 hash = "dd83b98ba18c6274fb14f2a5e02bceab825432b8660debc6d9117e4c568fec35"
 
@@ -132,7 +136,6 @@ metafile = true
 [[files]]
 file = "mods/advent-of-ascension-nevermine.pw.toml"
 hash = "f090d18a66c1fc4903fefb4852ed1ef14ade3d9ee888833dcf19712ddbe63987"
-metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
