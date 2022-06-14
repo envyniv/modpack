@@ -1,0 +1,13 @@
+name = "Special AI"
+filename = "SpecialAI-1.7.10-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77d52760f95c7e48563ea46314f14c5cb989e5da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2281145
+project-id = 224301

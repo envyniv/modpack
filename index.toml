@@ -203,6 +203,10 @@ hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
 metafile = true
 
 [[files]]
+file = "mods/custom-mob-spawner.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/damage-indicators-mod.toml"
 hash = "df97937a08065ef8bba20df4da55502a8dcd94a5a05076383a993e0dd20d1bfc"
 metafile = true
@@ -328,6 +332,10 @@ hash = "245393ce61384f9cd68ebf9cc766b528528592ac34b6fb9ce822a4f778b5d18d"
 metafile = true
 
 [[files]]
+file = "mods/mo-creatures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/morph.pw.toml"
 hash = "94be8a62ccded707db45762d27eadaaa982f1c569d4b64cde31aabb1dc35b348"
 metafile = true
@@ -400,6 +408,10 @@ metafile = true
 [[files]]
 file = "mods/server-tab-info.pw.toml"
 hash = "9149130474647d440419544c602cb053927d5747020a799ebe6116276ff49867"
+metafile = true
+
+[[files]]
+file = "mods/special-ai.pw.toml"
 metafile = true
 
 [[files]]
