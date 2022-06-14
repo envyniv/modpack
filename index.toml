@@ -33,6 +33,14 @@ file = "config/MUD.cfg"
 hash = "b83779a988b60c23aabcce10c28f83dd5e78f6b0c2dada0f539d968b06499773"
 
 [[files]]
+file = "config/MoCreatures/MoCSettings.cfg"
+hash = "e51fdad610a4fc02df277ea470a790148335c14831fefb083a3936e4376b225e"
+
+[[files]]
+file = "config/MoCreatures/MoCreatures.cfg"
+hash = "28c28a80696ce4275d3a1e016c1a713e47aeb4e0c3179e4854e994043bdc122f"
+
+[[files]]
 file = "config/OpenBlocks.cfg"
 hash = "40cf43a76c9175fdc8190b5031747ae3d3eff74350f3974afeafbfe2dedf2233"
 
@@ -188,8 +196,8 @@ hash = "efec9ea405dab66fc161d83fb1e691a7835bc2034bec6b77d9a84b219f092740"
 metafile = true
 
 [[files]]
-file = "mods/chicken-chunk-patcher.pw.toml"
-hash = "d0e925d029d79a81b2ab15006ed05a5fbab3dce217bc6a85a536a86e929176db"
+file = "mods/careful-cast-corrector-ccc.pw.toml"
+hash = "524d46f2d10616ab1472dbb11d9f2bf7c1013c5ffe3d8202b7cefc853fb745a5"
 metafile = true
 
 [[files]]
@@ -215,7 +223,6 @@ metafile = true
 [[files]]
 file = "mods/dmod.pw.toml"
 hash = "467834925da540d5b817afe4c6e4a52734a7689df3e902968812398b9264ba1e"
-metafile = true
 
 [[files]]
 file = "mods/dummycore.pw.toml"
@@ -340,7 +347,6 @@ metafile = true
 [[files]]
 file = "mods/morph.pw.toml"
 hash = "94be8a62ccded707db45762d27eadaaa982f1c569d4b64cde31aabb1dc35b348"
-metafile = true
 
 [[files]]
 file = "mods/morpheus.pw.toml"
