@@ -436,7 +436,6 @@ metafile = true
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
 hash = "ec36d0e5e6dfc95be4e6a981844a71cec9dc662b53e5e7251aa66fedbd4afe18"
-metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
