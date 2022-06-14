@@ -223,11 +223,6 @@ hash = "75cb12742187b1f4af0335e533aab6ead3125e323e3d3897df35a94f42ece626"
 metafile = true
 
 [[files]]
-file = "mods/eelimited.toml"
-hash = "581613ebd6d7764e116166efac6f5496c05f363b61bf3dd63b9aa0478339aa78"
-metafile = true
-
-[[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
 hash = "2a0c08993411b67ddd8f67c411c00307106e193d41e490328d4914a544de8f52"
 metafile = true
