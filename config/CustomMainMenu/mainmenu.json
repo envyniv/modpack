@@ -4,11 +4,11 @@
     {
         "title":
         {
-            "image" : "minecraft:textures/gui/PazzosgravatO.png",
-            "posX" : -137,
+            "image" : "minecraft:textures/gui/title/PazzosgravatO.png",
+            "posX" : -150,
             "posY" : 30,
-            "width" : 512,
-            "height" : 512,
+            "width" : 300,
+            "height" : 60,
             "alignment" : "top_center"
         }
     },
@@ -61,18 +61,9 @@
 
     "texts":
     {
-        "packver":
-        {
-            "text" : "Versione 35",
-            "posX" : -65,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right"
-        },
-
         "playing as":
         {
-            "text" : "Username: #username#",
+            "text" : "#username#",
             "posX" : 2.5,
             "posY" : -10,
             "color" : -1,
@@ -87,8 +78,7 @@
             "posX" : 90,
             "posY" : 70,
             "color" : -256,
-            "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
+            "alignment" : "top_center"
         },
 
         "panorama":
