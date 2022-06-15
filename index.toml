@@ -560,6 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
+hash = "d20c5e3307203ec1d5286864494e149d1364168449e3c3aa5c585fac9785777d"
 metafile = true
 
 [[files]]
