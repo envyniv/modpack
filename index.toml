@@ -524,11 +524,6 @@ hash = "5899cfd98ba1deaa8be058c2fdb2069fcfcedeaf49cb4b457858680da8c5256b"
 metafile = true
 
 [[files]]
-file = "mods/better-title-screen.pw.toml"
-hash = "3fbbe5dd12cb2fe919ccbcc4e15aef932ef701030f4796eb287c70edceceddbe"
-metafile = true
-
-[[files]]
 file = "mods/betterfps.pw.toml"
 hash = "14fa4fac8d12ca6bef0104a0666256dc8c24b7693672d6be4e31c4d543c26007"
 metafile = true
@@ -561,6 +556,10 @@ metafile = true
 [[files]]
 file = "mods/codechickencore.pw.toml"
 hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+metafile = true
+
+[[files]]
+file = "mods/custom-main-menu.pw.toml"
 metafile = true
 
 [[files]]
