@@ -1,0 +1,82 @@
+{
+    "buttons":
+    {
+
+        "video":
+        {
+            "text" : "options.video",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 75,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gio" : "options.video"
+            }
+        },
+
+        "audio":
+        {
+            "text" : "options.sounds",
+            "posX" : -130,
+            "posY" : 72,
+            "width" : 75,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options.sounds"
+            }
+        },
+
+        "lang":
+        {
+            "text" : "languages",
+            "posX" : -150,
+            "posY" : 72,
+            "width" : 75,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+
+    },
+
+    "texts":
+    {
+        "packver":
+        {
+            "text" : "Versione 35",
+            "posX" : -65,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+        "playing as":
+        {
+            "text" : "Username: #username#",
+            "posX" : 2.5,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/options_background.png",
+            "animate" : false,
+            "blur" : true,
+            "gradient" : true,
+            "mode": "fill"
+        }
+    }
+}
+

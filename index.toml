@@ -13,6 +13,14 @@ file = "config/CodeChickenCore.cfg"
 hash = "dd83b98ba18c6274fb14f2a5e02bceab825432b8660debc6d9117e4c568fec35"
 
 [[files]]
+file = "config/CustomMainMenu/mainmenu.json"
+hash = "a38baac4b06964cc2a40535dd15f3913521b37d7fa211061433dd436fbcdee23"
+
+[[files]]
+file = "config/CustomMainMenu/test"
+hash = "31582a9bbaf837d6b856dc9d96ef770a69c53d5601d3be694909ead8137d2238"
+
+[[files]]
 file = "config/CustomSpawner/Global.cfg"
 hash = "6128c980ccd460ea4498e98b6e5df946c58ac0287a141fbc434e3ab5bdcc6013"
 
@@ -796,1577 +804,1729 @@ hash = "e92e390abfdf767e57b53223991680019fd279c64467b70e5a1dd40f41644e1c"
 metafile = true
 
 [[files]]
-file = "servers.dat"
-hash = "7ef81bd78ff27f7d93ceb9c090008db89f844fb862f5e2604206c8de5fca889f"
+file = "resourcepacks/vanilla/assets/minecraft/texts/credits.txt"
+hash = "b1ea499724ea5c6cba9c8a5e58e077fd5979716ba980e95fc44e7a46a3280fd1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/BCCleoger.png"
+file = "resourcepacks/vanilla/assets/minecraft/texts/end.txt"
+hash = "67cfc1b5283066c7293b552faaf85062e00e46f06e98c2d53bbd537bcdb98753"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/texts/splashes.txt"
+hash = "907876d622556d37bfaa4de72308f2f39e1923bcdd82856715455e77e3ce6cb6"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/achievement/achievement_background.png"
+hash = "b99ec87194c344874949bcf3dcc40745128800c82def4a75c48b6d38e1694575"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/achievement/achievement_icons.png"
+hash = "6040aea94a72e932e06c66439b799b17719ecbac05e262bc27a779affe8a79de"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/book.png"
+hash = "1114ddeb75eaaac945e2184d3c70e2c0e25a30587588ba7a735b1712e93a8330"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/anvil.png"
+hash = "1541221da9eabc1a4828e0fe2a85faea5d4973e81500deee78419f36d40974ee"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/beacon.png"
+hash = "b2879ec7d92c6bb1745c013233f88b152789d30e05094cd4a92d9eb28602ccbe"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "839d5f6c56ac0e3067d4c433a7691a3dc952fd6a913a56b19e9254f3e3945dab"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "8b49d7695958e107ab02405ee97b0640ff0429747131013f6fff5763a58721fc"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "93b7f26bced1ca041f70ae6f6f0843ac71259beb79856e52f3fa354a76eccd96"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "49f9c8988914b32aba50db6734d18729a7cfa46de0069b569431a322dafaa6dd"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "8178189966af1d2b8dab84e35ed81e6fbed5d74fcb7fe4c2cb6a658261e435f6"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "c004104d6ce81f04da299bc7683020c7c6f127adfdbb9bf8f032f6be14e76a62"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "e9d40a52017a10204c501a9fdfa21833e461578f33d5ac6b7d578b42c85d625d"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "8405d22f8e31a1036234854d52e13e3903238687325eedcc7a50c8dcf5f2b319"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/furnace.png"
+hash = "a4c43643c5b195a7ab8527eb5eb8d1a64e084c1c41512536aea55f312e4e3f2f"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "346b0cbb74e395b7c2105326dec973f85fb5e49538e718e6a9c0aaac37186f66"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/hopper.png"
+hash = "d1dd33ac5d4a078202d7dbb05a6f92db0e560ef9276d4a8671aeb8f86d9da1dc"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/horse.png"
+hash = "3a7c8943d048b45363bff9358a5df0b2a2b9e9f6b2672764e18c08df5f9fb412"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/inventory.png"
+hash = "9aad2f7ee3c0327cb58ae36567a40b8151bfb689dbde2c4ad2e85ebd6083cea5"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "5e312ddb297b10b336f1255ae044d9c786ad2e9942380c57dc6712b98cf54ae7"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/container/villager.png"
+hash = "b2dd3ac9c976c9edbc8cea21aba55ee39fdc5f73fdb2c46295da413024c43c96"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/demo_background.png"
+hash = "0a07690631dd9ed1343d978189d92815305feb0dacf8f4515e0822db4d3f0cc0"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/icons.png"
+hash = "28945edc866448858394797a661c54f443dfd9afcc878ac36301224a356a75cf"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/options_background.png"
+hash = "9584a2c33a3f4b570ce12a5c108c693a86ac2e6aad43f828523928dadc008882"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/resource_packs.png"
+hash = "e5a94130a4821e015b24ab2d5e024be45678a1729cc03c48d78cad83de558923"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/stream_indicator.png"
+hash = "b897c759553308719cfdf52200e67c9ef4b1fe4c47eb859aba050bfd76783258"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/PazzosgravatO.png"
+hash = "fc0f2fde31d526adb284a028cb0e104667c1c1cd93cc89a5d6c01ff1918b9901"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "5dccc0e7745e2b660c2838079ba448f68d5e9d8ea6eccbe016d66143cf056211"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "8212e370ffd9be98411ece5fb9c85e6329ea213bebf21ae26e3688a6f62fa81e"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "513afce708d0fd22a0143b9610726386e98e1988a7f2e473af9eff28a1f608b6"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "e0ec0fb3adc53c46355fc8614344dcf7c7c4ac456a52162673d01156e9e83966"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "4be9e8bafb338036cbbe6ac0fb362afb17eedd5fc5d9c069db39bf41573a9814"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "a07235d9a173e5634bc46835aaf4d73b70f078d66a26dc84a4b9076b65aa00c1"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "ea152e26971fb51c8585c288359808df52057541d5095a2d18618f29784a010c"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/title/mojang.png"
+hash = "15c8bc30dc68ecbe8d8b557d2b921110e5fdea80a53ad035708bc3ea25717d63"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/minecraft/textures/gui/widgets.png"
+hash = "370ae0c0b8a47ae8baca07d6ac3f800e687cd73024db66addd7d2e8d2624bb6e"
+
+[[files]]
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/BCCleoger.png"
 hash = "956feb8c31c6eb2d629f538c4597799dab5598924e32592a79e27a2965d21af9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/BCCleopard.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/BCCleopard.png"
 hash = "76da0c6dfa8c69b0a12496599c62872fbf61d99b117d3d2243873e643be1364b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/BCpanthgard.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/BCpanthgard.png"
 hash = "a28f854a0f1414bb247ca5273687b9dca38cab51095fcb64a4cc1bcc241b9e5e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/MCmanticoreBlue.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/MCmanticoreBlue.png"
 hash = "5a96fdfb9f58c6f0795bdb16eb146b8d2afab71d0c7a87a2ee447b5b58095ec0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ant.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ant.png"
 hash = "9cddaa316a9062f59d650674226cf355cd7322c605632ef9eca3efc76ed48e32"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcfemalelion.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcfemalelion.png"
 hash = "da1323c6dbdfed5c6103b77eb1f758c7e318b7ca3c7c575c1a184bae3ef7b3e9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcleoger.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcleoger.png"
 hash = "956feb8c31c6eb2d629f538c4597799dab5598924e32592a79e27a2965d21af9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcleopard.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcleopard.png"
 hash = "76da0c6dfa8c69b0a12496599c62872fbf61d99b117d3d2243873e643be1364b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcliard.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcliard.png"
 hash = "ac9f155903d2909e68be6b71317e57c0d66f45bfe33c4f326ab7d464e300bebc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcliger.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcliger.png"
 hash = "d9aa6bb061c99c38864069c0b69d7a18b57f32cdaa45effadd94e9b849f1659e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bclither.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bclither.png"
 hash = "1661ad1ccc90ed0696186211b74dc1f081021bacfd6466946c7703aaf7c703d0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcmalelion.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcmalelion.png"
 hash = "56ba8e167fba605ec91f105cb364569029e47ba0f42ca322d59677100683c1dd"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcmanticore.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcmanticore.png"
 hash = "1ef3509a4ce77e81ffcefd9afcaa13c9d220f53442c1f1d10c554ad9a67affb1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcmanticoreblue.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcmanticoreblue.png"
 hash = "f47bab307f65458e401d6085c553882b936cecfdfde0563e8f957bf6a50f8ad3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcmanticoredark.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcmanticoredark.png"
 hash = "cfb6128c24404efc162f45c0da167f98fa4ab3ef9a0e78875cb8366124aa466b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcmanticoregreen.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcmanticoregreen.png"
 hash = "a5569de3e702b59dd150c0c9d8c3347655025538b6069e908d6c2a86d968b1fb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcpanthard.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcpanthard.png"
 hash = "a28f854a0f1414bb247ca5273687b9dca38cab51095fcb64a4cc1bcc241b9e5e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcpanthger.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcpanthger.png"
 hash = "85855a84c3c4eeb50526d0104e59e39f15c397a09917ed4391a3c86717bf20f8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcpuma.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcpuma.png"
 hash = "277e0cc8991e86a91e37707178609ef8b2111e1a081c1a6357e2a7e8789d503f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcsnowleopard.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcsnowleopard.png"
 hash = "5c25b657d92f2ad425dad10d39f21bc63a7c7a71a08fa3a29e28746d9edebd49"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bctiger.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bctiger.png"
 hash = "aa95e825f90cbc02d22c185a84d6ac3584cfbde5d9b9205ac8355979941fa8c7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcwhitelion.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcwhitelion.png"
 hash = "c66901a98838164aae25fbaea3feb604d587bff23c3d9077834d260a919838ba"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bcwhitetiger.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bcwhitetiger.png"
 hash = "e9c8b9ecda1a64fd812763e1e4ace004ef0f0914f89752da96c46cde141cd55e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bearblack.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bearblack.png"
 hash = "ce9563d54a0c6caafa8980341bc64f31043ad9547b0263b33c247eb184f54cc5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bearbrowm.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bearbrowm.png"
 hash = "0d9ab1148ee52e8ddf972d34f1170aec163895bb0484c983803d60ba68693b74"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bearpanda.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bearpanda.png"
 hash = "d6d2bdccea1795d7d5a668217e7e8ee6be0d67e248dd06df7e0fea95fe8306f9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bearpolar.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bearpolar.png"
 hash = "8d3e0fb6c8496d957d39a88b1be9506dfb07abee73ce528fc319fe6b4fe211b4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bee.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bee.png"
 hash = "3a3b041972d4a71bd37014ed1d0d1a56cbd68634b62b574e993bfc2618d9d971"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfagalaisurticae.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfagalaisurticae.png"
 hash = "a0d8847ac9bacbb92a5565054f75ccf500ff6e1ca2c731ac4230612891c5fb82"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfargyreushyperbius.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfargyreushyperbius.png"
 hash = "e5c1c298e2121c888697c3fd105f0c03eb611104db066dbd503d70b3b8d068b7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfathymanefte.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfathymanefte.png"
 hash = "e588f5afbb4e4a1dbf13c307924929bfc4a3f0371d1b425466afd82138b37ad4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfcatopsiliapomona.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfcatopsiliapomona.png"
 hash = "daa584bd2d3a02f27b76dd8562989e1488563872683aedc26baf671a436a457f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfmorphopeleides.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfmorphopeleides.png"
 hash = "9d43d9995bc4aa7c34c0c9f88b5e7a552ff070cba4f9c4da8ab7d358c89271aa"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfpierisrapae.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfpierisrapae.png"
 hash = "ea8e69ab452072975777156e44f1e5cf75b35debc9b5d0016aef94f1bdbf4a76"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bfvanessaatalanta.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bfvanessaatalanta.png"
 hash = "b5658a1e0a9cb200ac64a5ea3a6c2e5f4fbcb34c6415e1522df13a9598982a36"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/birdblack.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/birdblack.png"
 hash = "42ce640a01b3bf0b8651f49c30925698af844804875ca68b77194e7a45a0a7db"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/birdblue.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/birdblue.png"
 hash = "bd79db2ab6493fbdf24532a38e80d173b1a4634fd3b6194217c3769030794d2d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/birdgreen.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/birdgreen.png"
 hash = "cab64b241cee803c61498511c63eb8083125acdfc9e60fff35ae03e301bcd815"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/birdred.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/birdred.png"
 hash = "14fa7e09d7fa4e5504a6c7ccacec4273cfcb34d188f632c369f0ac939caa5993"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/birdwhite.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/birdwhite.png"
 hash = "91dd09f24f60fbcb6b65c42997ba994de75c478f583105634bada96bf4a8e704"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/birdyellow.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/birdyellow.png"
 hash = "44181fa946e529166aa99f00a13f27bdb4b48e752f1cd7bd878b06aabd6f4b03"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/blackwerewolf.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/blackwerewolf.png"
 hash = "cd06563da76702d135ec2c255ba2d60a79608d000ad1738684d54ff957d64f99"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/boara.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/boara.png"
 hash = "5ade468cca25f28bb84fe60ef3998dfbedfda7d8f633d4beeb7f22676b64213b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/boarb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/boarb.png"
 hash = "6ca569cd4deeed6f15e6428d4257a4b6430c07f716f34f3a88b7c593b2764f2c"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/brownwerewolf.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/brownwerewolf.png"
 hash = "eaa23d513fc98593b013eb7e148929b761c644bf2f25249c584e8829e3671047"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bunny.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bunny.png"
 hash = "9dd2979c0d3c3859eb4317384dd922da2bfd4591f27ae9410ed7fa2b7ee9b8db"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bunnyb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bunnyb.png"
 hash = "5b97ec6346c70c67c3d99862e5ca9597a8e3b946539ee13269c94a9281055e02"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bunnyc.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bunnyc.png"
 hash = "14686033071aa321444387c5283e422be9a35d9dced3017c477f8ebb018fe279"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bunnyd.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bunnyd.png"
 hash = "191c913a4f9b583b3fe16bee91c0483db065e1537b6061414d9d2e54730b9a70"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/bunnye.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/bunnye.png"
 hash = "cabea0b98e39f85b461e495b4d909aa59e6029a86b03670e03c9c7e82702b232"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/craba.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/craba.png"
 hash = "80512e476a69d202a303908fefc77b87dc04859a5fe72e54cb64e6d963b14719"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/crabb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/crabb.png"
 hash = "30cc03871ce34bc21c42c50163b039fddb4ae40109e66408b958b65659481097"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/crabc.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/crabc.png"
 hash = "e4759c508475f9187e662e3d7977a48b61a99cf468816fb058fee5f0b41c082a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/crabd.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/crabd.png"
 hash = "136da9ae9e17e568b3e483b790fbb7e86cb70ea46e4fc400b5be06097e13dfe7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/crabd2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/crabd2.png"
 hash = "30cc03871ce34bc21c42c50163b039fddb4ae40109e66408b958b65659481097"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/crabe.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/crabe.png"
 hash = "b49e93eb0347f58d7587f562b80332236c885995bb65e7c80801e140044d3d79"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/cricketa.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/cricketa.png"
 hash = "26a8e14b3e51cd1dc4c3845451d97719879d2bd8f55731136f68b811f8fba49a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/cricketb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/cricketb.png"
 hash = "86aa11b16eb190eb029fb7c3bd2c081decc273681dc74d59322e0aa5cfbd4caf"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/crocodile.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/crocodile.png"
 hash = "67795fbf87a350de4583dd8dead1897db385b736c1ac094f00505cbc21b60380"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/deer.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/deer.png"
 hash = "71e6c7bc1e80e1cc461c3358d7f4e03f795292aa72f38891240a0216a2da7081"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/deerb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/deerb.png"
 hash = "b5f6f907cc2c365a90e83c0dd08298737c0d5093b5bec132a187312164277827"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/deerf.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/deerf.png"
 hash = "498349a9ca430c0dca2fb822bf27823f58e7fa414f2b2ce1abac85225f1d60d6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dolphin.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dolphin.png"
 hash = "bdf7a45cf4c8df1fd359c5239c5237bc7df92e5505d0b3378a20ae3c746345f2"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dolphin2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dolphin2.png"
 hash = "868306c9a858caed9b3a00275b9b72ccfc2294508f7c702cff955386ece42bc4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dolphin3.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dolphin3.png"
 hash = "ac03e55a5611995193eea1b7af1929eac7b8c2974e4857bc0649494a82215a08"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dolphin4.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dolphin4.png"
 hash = "8f89801b684f7801fb36c1c1b9921ffe1d1e8d15a49e3c94a974d37f59eec1f4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dolphin5.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dolphin5.png"
 hash = "093a36e76dde0c8d88896226681f25a3803e9fc7d014a25345382179ec66fc63"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dolphin6.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dolphin6.png"
 hash = "746baa9322ff3392741ed274aa5cafb0a780a807aa22eef86024638bce846d42"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dragonflya.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dragonflya.png"
 hash = "8f777a774c001fe1461f0d6348912d0610bdbbd27674ebfb0e4dc1627faf41cc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dragonflyb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dragonflyb.png"
 hash = "451db5d784cfdb7b87539218b3539722e4b6663c1da1b45a5a2e34394f448661"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dragonflyc.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dragonflyc.png"
 hash = "736a6fc1f6431ce5c80591f4e6c65bfa33c6f1661d409092842b295e0b567766"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/dragonflyd.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/dragonflyd.png"
 hash = "fbf2ecd20e9f9a871288384c6c62d7be23fa548df99e5dae2ae777b744a5ceea"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/elephantafrican.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/elephantafrican.png"
 hash = "c897840e9912a0c3da31d9077bab3e0c4634e536552581456f927173b2fb8881"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/elephantindian.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/elephantindian.png"
 hash = "95cf52ac1500596faa846f8e50dd3a3d0b4034067cc61cd1a2b87017e804442f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/elephantindianpretty.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/elephantindianpretty.png"
 hash = "93de7a3333cf2267761215c6549d8127dd032bdacbd9d54898ac9d67de914c00"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/firefly.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/firefly.png"
 hash = "a9da8e54bdcb79b909e7e41ad0ae98b0a76e2075fe812852a35dc350f11ff607"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fireflyglow.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fireflyglow.png"
 hash = "6e74fa5158e8b7bb3da84968f1d5c8989cce860522e99cee3cc0031026f4acd3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/firewerewolf1.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/firewerewolf1.png"
 hash = "e0a285d511c4fecbb44f919f858a3bd3f73748195527fac17b9d9756098517cc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/firewerewolf2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/firewerewolf2.png"
 hash = "e13cd402572faa9bc65b44a9c212734bdc6c5bd67ef3406c213e6709c679314b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/firewerewolf3.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/firewerewolf3.png"
 hash = "100582ad0dc3dbf866eb43505ac9c744c4d4d86f301fee8fcebe9754aea04ec8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy1.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy1.png"
 hash = "3c1d5edcb8962c53297923ca10afe0ab566e1b79d95532631ca780e32a60209a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy10.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy10.png"
 hash = "5470c7fc10289eb33ba0c1385cad32033003b0adbf7f7413fb9727d715dde8d7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy2.png"
 hash = "95caeefd1841c106338e70d5819718772262d357ff77682dac8a3e08ef61afa8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy3.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy3.png"
 hash = "56e4afe30c2b92870fe645b7949a21ec493938ec435aba9c6962aae6af3cc187"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy4.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy4.png"
 hash = "0b5aa5331481188e09f056a8093e269881a2c6d4d2ae3737d8e13c16d04b6d70"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy5.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy5.png"
 hash = "b2c9edb5e69f67250a042094d50ae005e0061f143ce7d0a50e1b8a7ee81831aa"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy6.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy6.png"
 hash = "7c8ddf76f426392fa58fe19d70ae7f46a2e50dc029b72f8005bc715151e4d86b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy7.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy7.png"
 hash = "f2592bfa15cf1ed9ecd7877769f36c35a578d3c094643425a612fda5ca0c30e5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy8.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy8.png"
 hash = "f0a712b0ebe2c9cf0fd7a7bdf9c4270960730115443b186a4733a01b96a75801"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fishy9.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fishy9.png"
 hash = "2208172e190626c5580e49085c86804bb62253f59b6a6cc4ec14fbf06d3d7036"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/flamewraith.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/flamewraith.png"
 hash = "0b0949ef9e0d1035d7fdb6c734cf64d690372e627ad278c54cccc3497e9664c3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fly.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fly.png"
 hash = "2b0435004dd4430cc56b03f10c0c988ef47161804a909252d497015e756f8ced"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/fox.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/fox.png"
 hash = "c0668241631d4b9674c5574c77d1a3aa13a942585ee26dba96b8cfed037bff39"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/foxcub.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/foxcub.png"
 hash = "80a06f35d4933eb10c541ff56ec0c5a4c4cfd09ada22bb2f9b66e933e54615e2"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/foxsnow.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/foxsnow.png"
 hash = "415aa1a1177aaeee43a14ece9e940ae9b6e4789dbc49cc38143399b6a92578f1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebat.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebat.png"
 hash = "5d53c7e28c0b96950209fb3c051608f7197add5af632ad1abe7f234fc186b2e6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebatcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebatcrystaline.png"
 hash = "8c766fdb93550d2b5f07803457517e75d4f565dbf650f2eb576b25392764a17e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseblack.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseblack.png"
 hash = "a450ddb3c36165a9cecab8de95b60d6515dd366990327eb166b1fb5828a9df3d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseblackdiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseblackdiamond.png"
 hash = "9ece9d1e6061ac941034a5125ddbddf928d01a8f92a23ba615eaa65c5ac99a03"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseblackgold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseblackgold.png"
 hash = "323e1c7eb25c8829eb9bee079a4d23f15783e9623c62904441fef580476d7fdf"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseblackmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseblackmetal.png"
 hash = "2a522fe19d1e96f78b5247bebbd13c8ac53c70ca33273500c7c65767ab2434e0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamy.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamy.png"
 hash = "e6bb4d90560d55e7699c34244edc7ae11c85d57655a494d55b625f01f9a633ef"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamydiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamydiamond.png"
 hash = "d8e3e1afac4ad451a03e0a090f76acb372d732f50994d8073362925d5beff6d9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamygold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamygold.png"
 hash = "5ba8ea50d452c6df69bc908280495545263258cb13e26baf7f01329f52224ac3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamymetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightcreamymetal.png"
 hash = "4801eceb1d74debad5ec961be54442d62bb246357557c30effbe772e2e924645"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightpinto.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightpinto.png"
 hash = "ca9fe7e5e857b965d1cf83e00f1f73638c62f4926f2a1fd4bbef23f745f1cbb5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightpintodiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightpintodiamond.png"
 hash = "a30cb3b7a06f314d9f3812ff1a3db515495a84264fdc15488318ebb45b2119ba"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightpintogold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightpintogold.png"
 hash = "0d65009536ddaf490d850acead63c2f6b17c076266c0ccda373a5a4ea95f03a0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrightpintometal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrightpintometal.png"
 hash = "027581b5ed1c8d14ebd2f8fc1a89d6d611c7927a507beb4d35c736f37798fd00"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrown.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrown.png"
 hash = "e8a9cecdead5aebb67e3352ff73e2ed93e6a1e3f7a1fe002557313fe34b3b17e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrowndiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrowndiamond.png"
 hash = "28daee944beb25891fe43ecdfa635b4b8afeceb2c6ddc621ad76e39ca3a0beb6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrowngold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrowngold.png"
 hash = "5835119835e67b529b3184a52c419331d9960f1401107c010ee977bd99d6d5cf"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebrownmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebrownmetal.png"
 hash = "9a4566c6c7725b6b9c80e4ac2908238232e858ca7e15e125bffbf1193c1b4d42"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsebug.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsebug.png"
 hash = "98e9de8341b5f567791ad5e8ded5c9ab0549f271569e529b66096a17301a9bfe"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecow.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecow.png"
 hash = "617bd2abb00d5cac1d36fec6fe34d7b6c20bc3ef89f59d6afd030801f702d4b6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecowdiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecowdiamond.png"
 hash = "d7cd6490ebc5c8c77ddd88cca587e3361129e63444ca2af0021e610c039c04a3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecowgold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecowgold.png"
 hash = "cb8a6dbc4d3867368636adc62c1b83dcc78456ddd6955c1093adea4280e20577"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecowmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecowmetal.png"
 hash = "e89d458f1946cfb4bc1ef7e6b88df70c055eb2eac333557a014b91fb04598178"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecreamy.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecreamy.png"
 hash = "ebaf0d5ac3b900cdfec8e3498c2cf559ec0bd43fedf15b2f748704a3a83e6c85"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecreamydiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecreamydiamond.png"
 hash = "890b0921a492492ad4dff628d48e92b2ff91865451d02fba0068beacc1a96370"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecreamygold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecreamygold.png"
 hash = "1cd343f501a03b478e7180aea707cab4b2baf8b985880cb15efad93a5aa358da"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsecreamymetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsecreamymetal.png"
 hash = "5ac8442516c2b205003a411908d4327f3b5bc5449b605d5b62d843aa2d91af1c"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrown.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrown.png"
 hash = "3de9aca257f4dd42f1c15ce420cc3128f0fbb6e7ee32f592603e1db30441ad95"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrowndiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrowndiamond.png"
 hash = "5f3532fa575e8ce33e39f6c6dee6c3660120cf7732837fa5dec94eb5444949a6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrowngold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrowngold.png"
 hash = "fcc85cd2185b0b662981f03f3d65c9f7ff957a1d1ae94f22d8b175d1ccfacc03"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrownmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedarkbrownmetal.png"
 hash = "0c5bde8d1256dfe68ef84ce235070bd80a2b1ae29923f78c7a1d0d147f060011"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedarkpegasus.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedarkpegasus.png"
 hash = "9e538026706f22e954117462e898ef8af82b56970dfec10924e20b787b1cef2d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedarkpegasuscrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedarkpegasuscrystaline.png"
 hash = "568e12757f785b59d9d43c283f459c90f5c46c3259219e6e36ba6a80741de699"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsedonkey.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsedonkey.png"
 hash = "a4edc53ad9d0476a3e9365082be9a4230b314584c2d72c28eae454571a899bf3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyblack.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyblack.png"
 hash = "52dd8618cc6145c95a4812c427dfd04e8b0542b7db69a5885dc5b4b427756f95"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyblackcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyblackcrystaline.png"
 hash = "49e6e6813955ea66352aaa574017fa0abeb2a88a48e6daea505cbe4e68e080b3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyblue.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyblue.png"
 hash = "329de85d08cf15826a1787b4e369081a954bf4e4d9f245bcb1645ca66370155f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairybluecrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairybluecrystaline.png"
 hash = "868f31f57f0277e16d52fe0fabdf16e0e1ca663bdaa42e9490ebf5e070bad4d5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairycyan.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairycyan.png"
 hash = "e4912f637181f6001db2085132505304c5c2e1ed3143f894ec9c63395f78a6a5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairycyancrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairycyancrystaline.png"
 hash = "8fac1dac91fb902ef6386901b0d2feab67f9f21b97a2a654ebeba89498517902"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairydarkblue.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairydarkblue.png"
 hash = "7d32ddb4b0126bbc8f3e42584fefd4e3d75422f6261a514834eeade84a6ad340"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairydarkbluecrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairydarkbluecrystaline.png"
 hash = "5e20d3121275ed47dbab31bc957c174c683fa7770386f9e803390385ec13ea47"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairygreen.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairygreen.png"
 hash = "2b97bcce557405bd04315cf837d12d4e90e2691e039cf2c0042af9c9294523eb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairygreencrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairygreencrystaline.png"
 hash = "295ca4156e94c3eb16dafe95845871af1f090331bea51b3275ced984b3ac1588"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairylightgreen.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairylightgreen.png"
 hash = "bdac5e5bfac1007b2ba1b79e9a08b229a3c48310054b6e098f0305ec4b781931"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairylightgreencrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairylightgreencrystaline.png"
 hash = "f43b6055fca1af1ce6a589670ce87a51bd0856dc1924e41b41016c5152260f3b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyorange.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyorange.png"
 hash = "a222c735c38580d92dc4553fdff9d04c8dc1af97c1fbb7b0be157ceec5d628a7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyorangecrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyorangecrystaline.png"
 hash = "48b81cce61962ec1236026b51aeba59fa9f7460240dba7ed8ad07962ab7da025"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairypink.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairypink.png"
 hash = "118567d1ca5fb1b8b214512523b63c25080ef19c25e44d4ce529c4fdbe82faf0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairypinkcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairypinkcrystaline.png"
 hash = "680846a331d2967c00194bdc4e982b31cbcd45b21e755314476fa91ffdc7a032"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairypurple.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairypurple.png"
 hash = "3928c46ade863602202bcb76f7f3c82cd49b34ea8fd40ce608e11563786a697d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairypurplecrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairypurplecrystaline.png"
 hash = "ce8cf564d25439dfa87effa95eed5790974bd8ae629e8c57cbf6511377d63919"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyred.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyred.png"
 hash = "68313e691b0f9e4488ead0b4adf8418d0eacac552ab1162146cde092dc7993fa"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyredcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyredcrystaline.png"
 hash = "a2f153f760774775560bf32fdd144058771d79763614c6498104e80050bff644"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairywhite.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairywhite.png"
 hash = "bd4e799771f2da98f310d1c28760355ee74c3fb3beb9a39126e60f3f773cc4d5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairywhitecrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairywhitecrystaline.png"
 hash = "0d7f32576a6d0bca09e1ba4f4bb9680e6146067a61f453b25b7dd1ce10224cc4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyyellow.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyyellow.png"
 hash = "968168faeb0ccb0125acb7b35ca02a37a55304c26d7a1e08ddab69e92a738797"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsefairyyellowcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsefairyyellowcrystaline.png"
 hash = "9d4df3e2dc9cc095c1c5dd8404c880285402f6e0458f91ad8ee554d55879131e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseghost.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseghost.png"
 hash = "fc1c5d7cdaa0b2996c0f6d82593e11ec58869752d613647adfc04913326ed71c"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseghostb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseghostb.png"
 hash = "babfcf48fe2c869f802a5ee6bb10f94245d4d45bb49127b8afd15079a72e1b4f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseghostbcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseghostbcrystaline.png"
 hash = "cc58e8f0d753c5e373b37120b5f6c6af22bd8a7c8cabf8add78078f84cd2f5cc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseghostcrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseghostcrystaline.png"
 hash = "c58cdc3c9c878c8037b6fafd486d64935fc7e57bd453da667a4574c065c742fb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsegrey.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsegrey.png"
 hash = "477e1d4e05716092794e96fb5613e2f9b4bbb77d0cf278a6c8a98fe11c7e50c3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsegreydiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsegreydiamond.png"
 hash = "5ebf0218da82daa9483170f60a156d82e25dbc22a5ca9713ce905055bbebac3a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsegreygold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsegreygold.png"
 hash = "47cbebb4ec8a125eef94f2e399cda0c405e9d24d2c61d7169909b9052871dcf4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsegreymetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsegreymetal.png"
 hash = "9a8c4192b4ecb1628fb97bc62e8a11a2cd42a4d0da90f9897e5af5079d358d5d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsemule.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsemule.png"
 hash = "f5c9c2df20e8ba4da8c08304d7b24b72f66abe1087b52394b170e34efd72316f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsenightmare.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsenightmare.png"
 hash = "e729b494586f939fd0a4c665406021b2a894d56762a780126efe8f54f034d045"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsenightmare1.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsenightmare1.png"
 hash = "e729b494586f939fd0a4c665406021b2a894d56762a780126efe8f54f034d045"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsenightmare2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsenightmare2.png"
 hash = "d2d64ba57f6fc0f22f5cd5438540d1336d43b388fb53fd49ce3294ee752fd4ad"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsenightmare3.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsenightmare3.png"
 hash = "0ca10c14335ec5474b6cffcf8833dde35bd9e69bfe67eeca3601c5e4402f814d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsenightmare4.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsenightmare4.png"
 hash = "d7a16ddda03359220d10c0080b4a423c4a7cb96e109955a2683b4e2a29c208a9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsenightmare5.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsenightmare5.png"
 hash = "a631b39d673abec5c27c9e9d14db0bf92596012db81f43c945b4f0615c2c44f7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalebrown.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalebrown.png"
 hash = "47766529ded6a2d5c63a91e4c8076fdee1edc6ee78b244de76952b6bffca44e4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalebrowndiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalebrowndiamond.png"
 hash = "5c52d5ce56e1fb678913a4bc1ee2f0bcd87c53681f0b2faa2f049249c9f0d7b2"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalebrowngold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalebrowngold.png"
 hash = "5bdf7369348fc2efa66a75e2ed4e4b246fcd9e3ddaecd5a70a1ce41f50384d29"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalebrownmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalebrownmetal.png"
 hash = "6adab4e0ba21edac5efd6cb817221acd0ed2e0b554ffa3b31222b32c9b6769e7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalespeckles.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalespeckles.png"
 hash = "8b8375e2e8426ca30fda74abf54a117f8fdda69e95aea5af0825439db754079f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalespecklesdiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalespecklesdiamond.png"
 hash = "7d067bf083d117e5ad30cbb9174ee35ee6569401fe1302a1a6250e7a85d93b82"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalespecklesgold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalespecklesgold.png"
 hash = "8a70381f6b5367ac2657ffdf307a24cf3a9c55e5ab2bfeedfa23e5742927c68b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepalespecklesmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepalespecklesmetal.png"
 hash = "6374325cbdfdea9b292a6750ce1370b398fc12093488d7e4cc2420903bd94063"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepegasus.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepegasus.png"
 hash = "7d343de3ea0c524b71b1afae2d60a7c9b4fdcdaa61af3168a8ba45353982b56f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepegasuscrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepegasuscrystaline.png"
 hash = "8e592598023e69f3028b6aaf9c50c08e57a630ede6e273a8385814b1940071d3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepegasusskeleton.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepegasusskeleton.png"
 hash = "2ae52833fe82ee555adff2c89fed3eb18402ae6515ec41eeb0ba9ed0bcd3f137"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepinto.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepinto.png"
 hash = "f7c707d4afe8a714d3852fa71e8c1548e12b641ea79d690bfb1aeb227b3174f8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepintodiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepintodiamond.png"
 hash = "e1e0198a26b82b03d64c3709d4f04d180896d1af5e77ba109e38debc0dbf4912"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepintogold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepintogold.png"
 hash = "5f8c93f67fe7e891ccf3369ace55f0559e6fb383d6d851d962c981d53411518a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsepintometal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsepintometal.png"
 hash = "ea056fdf62ee150b524d2164560f900b6c7cf2c6df5cbbf9081ee19001f020d3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseskeleton.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseskeleton.png"
 hash = "3ef02bf1c6c5ed891f5e2f7e9d3e0ad83c736a5883a22a9baabf49592b4b3207"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespeckled.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespeckled.png"
 hash = "8d7f8376c3261ee1071b738b37917e4df93e3f9cc300130572ce6d582daf629d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespeckleddiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespeckleddiamond.png"
 hash = "878a57cf6453875cca6fe60e79a9ffa41103f3f9b614500e8ddde76106c4f657"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespeckledgold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespeckledgold.png"
 hash = "42c720d747a6627eec8273a9d6c4fe387e802cbf115bcaf66397aed0e46a3822"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespeckledmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespeckledmetal.png"
 hash = "a4eebb4ca46c708374ac126d9f5d571e36fbfa9156c78ce702470d064b82dc98"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespotted.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespotted.png"
 hash = "6b89d773bf091a62511f9636310dc19da4723477fea2e21ea6074109ea5f3f48"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespotteddiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespotteddiamond.png"
 hash = "81b80ee568870314b62124f6616936aeac8546a16cdbaa37bf1ffc62dd5981e6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespottedgold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespottedgold.png"
 hash = "8fcd58742b9e385f38256b939818f1d21a6f894e5bae2279301ebf4582717e5b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsespottedmetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsespottedmetal.png"
 hash = "a286e767a1f8f824c3356907b8dcdf54eb13ad2d7dd2a1954ba939b544ab1058"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead.png"
 hash = "f47c0ac2f6ee263396bba59f4595e532a45971dd3dddf87a27ee9ac31d80a3f1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead01.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead01.png"
 hash = "a0639a0c01d4e899b7fc4a70d0dfc157195e08b14a94a33e1ba0a0c02ffdb7f5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead02.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead02.png"
 hash = "46df2ef0fcc6e35ba72a9164036ebd0c0d83b244914cf177e465004b8cf40005"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead03.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead03.png"
 hash = "abc09896eee489e5f771c53a18ccb036bbdd6807c00aca03b819d3535c9605d7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead04.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead04.png"
 hash = "0b1733c3c70cf12814dbd8c05b03cd462e2859b8a080054ba24f07b542704c12"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead05.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead05.png"
 hash = "9026f1fe7c4f060411913078dc1cd39993f617c511c2f76215fe8a960bd5c736"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead06.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead06.png"
 hash = "e032a7ac6de78506a98f5bb36d0ed46ffd5c557d83e17abfe4784e7906b86025"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead07.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead07.png"
 hash = "833f46e664ee5108a8a302f836ab86245de9d56f7dfdece60fa31c5a1e53e617"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead11.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead11.png"
 hash = "4a7447b6ff064dda8752e022fa0e4ce48b80629d53cacac19c683193dbce9eee"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead12.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead12.png"
 hash = "b2c2ff8a4164f5e2a4eeaacf365651d69f51a5f32d26a3b0eef0044b59b43d12"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead13.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead13.png"
 hash = "c20228a64efd66a311269c56fdf0283a687ef96c2f54ffe2aa186da4c2120f4a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead14.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead14.png"
 hash = "d247b267bcd0ed3a5f22adbe7189b1590e8f02835e31f5abc5cb1726230a2273"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead15.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead15.png"
 hash = "a71f529011a15bf0a319069adb407df1c8d6bb218c8fdfb66ec51dfa08578181"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead16.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead16.png"
 hash = "5df5e730f77995453f81509dc3394f98c20e9ab8100abe908f170fac70fb520f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead17.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead17.png"
 hash = "4a7447b6ff064dda8752e022fa0e4ce48b80629d53cacac19c683193dbce9eee"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead21.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead21.png"
 hash = "bc94b10a06c5e133503e57be2780b28deddfe0e78bf543fd4745add94a7cf296"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead22.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead22.png"
 hash = "223bdffe8ce799a7d6187a319a0a61a961b4cc454942391bf4da9248156c5399"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead23.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead23.png"
 hash = "9f7818b8b234e34a904c92796bbf8f3b0fb58513f23ac29c83d91d1916610c0d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead24.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead24.png"
 hash = "3caa1ba13b847bec32b8ca21e12ba0397aff86bbd74da9260c15e0ddf52d6039"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead25.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead25.png"
 hash = "72603890cea28966ac29ed21dbf2225155c86e7df2503847b1291916d366c344"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead26.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead26.png"
 hash = "6f1db6ce7c4c7b27f14fc85d653d5b5ecaedd0a265181fca11ca3925aba05880"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead27.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead27.png"
 hash = "83ae8b8d06ca97f0604d02dc0edb14a004f43b9b4aa49b5d5ff8765694ce34c7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead31.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead31.png"
 hash = "026ba91d38348fd6ca1006316b3de6c46531cf5b66cd2ce691d845b9da45bca6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead32.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead32.png"
 hash = "079cfddd4dcedab904143f99ed5f1bf41034f6069fe99cc3ed34b4030f012316"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead33.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead33.png"
 hash = "89285d58f1952ac93c689b1097cf5b19941443d933ad4c2eb9ad9e9abe7d37d0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead34.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead34.png"
 hash = "a9bc9f3c303deda23c7173c1a6e6d4728b0e4393b975e68049b93507b1f7ddc8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead35.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead35.png"
 hash = "7b87369c3dc1085e703bfb024ec2644e7f5eff4e3714fa3da3b1ac17c1299d99"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead36.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead36.png"
 hash = "30d03d92b020e327776f4c8f35eeb1b3bf0ca20f80bc6fb8ee33d09aca2dee24"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundead37.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundead37.png"
 hash = "084ded022e5f924295db4e760f2d6442ec9876a73e305d0a8f2f1ee4b0836283"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus.png"
 hash = "a8738ca4c36401241703519bb18fbe745b813142e1282e428edc28460f7f086a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus01.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus01.png"
 hash = "e6a4f5bac1f15de7c7739be1c9fbb79ea7394e01cc83f8c5ba59d4755dcc02f7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus02.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus02.png"
 hash = "52ab44ace4c8263fc90b084d40e899d2ae04f1467ea8b1dd46c12b4101032710"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus03.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus03.png"
 hash = "0a365c60f86006225d2be5c262fa59e78c2f779fe2dce43d6587f21e5e968e29"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus04.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus04.png"
 hash = "2d5a07b1e58ca7d184f7c958e326ab7a7799b53d6352430faf9e0632fbb3d115"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus05.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus05.png"
 hash = "078662b3054a1196ff7ffa1d6bdcb916c32fb8c55e46666ac0dd751189f05b90"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus06.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus06.png"
 hash = "ed64d1c24fba66885b330a254752d5bab5fe60bc8d5d91cc472f817d5e4a3ff5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus07.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus07.png"
 hash = "e6a4f5bac1f15de7c7739be1c9fbb79ea7394e01cc83f8c5ba59d4755dcc02f7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus11.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus11.png"
 hash = "56ff22fe6b9e0babda5c7da761c3841b05baf7f2dcc2e8b6bc6681fb61022fcc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus12.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus12.png"
 hash = "9be0c47f9505a92ff0944e0142a617a9c901c3d89efcd178444124571299e746"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus13.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus13.png"
 hash = "1f6e394dc3dc15b6e4b5739d44064a74e0e60fa8aa6becfa3c819bbf1e203069"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus14.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus14.png"
 hash = "10cef1561b46ae2df7971f01183b45923ac354c59543f761b4685a7982eb0e35"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus15 - Copy.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus15 - Copy.png"
 hash = "1b769360ce45aeced4462728117a476c8964a4126b28378da0e3fe6217570fad"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus15.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus15.png"
 hash = "1b769360ce45aeced4462728117a476c8964a4126b28378da0e3fe6217570fad"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus16.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus16.png"
 hash = "27d81a188d6ace1e9d24647d283db755b371f002bfe622492e8a8580a8b02762"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus17.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus17.png"
 hash = "fe9d7cdbaa0cefef40b88ce629a4c200d9ea8ab0c8e7d2d91a2bb791fb257525"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus21.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus21.png"
 hash = "679c6a2a6d6ec222a4556a05d6bc5f0d100a80d35d8c9e93a50db58362bf0128"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus22.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus22.png"
 hash = "e3a77becb167961b8fadf2659f9faf72f9c1350c05aa018167c40b4fd974350f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus23.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus23.png"
 hash = "12de97cee3bbc906eac9775c52c49a10fae19affbe201d2fe86710b53cc30e72"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus24.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus24.png"
 hash = "2f81c9602d9c2dfb7df1c70e434285979a8ec0a3170a42b232eb47f5b13ad6ab"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus25.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus25.png"
 hash = "f437e0a6b1d203f53d58921d1a27a7be32d0d91e95407d7d2e61a61d05809e83"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus26.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus26.png"
 hash = "2d848afde637ad3462017b861af945d4f09c6e8c96df5f1b89cc978fb071a1da"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus27.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus27.png"
 hash = "e99e42a1b95a196ad2e0e5f818143f6e4945d98e67ccd69d13eb15f775483d8e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus31.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus31.png"
 hash = "2bb9e55beea7b092896bc18855ec52aaa0c52ce95cf7d53d4fa4d242f32412d3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus32.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus32.png"
 hash = "230c45ea1cd416196f39c40be5a0235f0b029c01d6e91822f649ed7d8b2beb1b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus33.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus33.png"
 hash = "c4ddb79aa6b69f7a00cc279c8af4d2362cf4e917556d3cdec21d0962dedc5cef"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus34.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus34.png"
 hash = "6a1e8b6c5f9953b0d648d1c61450938a236654d4334954659f82a7767a963b53"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus35.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus35.png"
 hash = "57590329cd4a1b2616fc4b086470e1c943cb275d68bbb9319f7996788e08550f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus36.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus36.png"
 hash = "0e49502185e09d9b50493a2eca3671dff15c9b4da479ed781a1f1705ccea0ed1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus37.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadpegasus37.png"
 hash = "f330ad7e429340e4bdb3351baddac5a8b35ac3fe9650b70e9358084e6d71b14f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn.png"
 hash = "5eebd35ad8c5b3036feabafe3548400b6aad42b2fd4f51b5e8b92d82d88fd2d4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn01.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn01.png"
 hash = "fe69949ae913ee2cc79d5c9cb1eb000a48cd99a273e1467a2d21bbb8415faa53"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn02.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn02.png"
 hash = "9032085f0d7bd785acd89bbbe16036bfde34ad9291dbf4c32db5dc371515d948"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn03.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn03.png"
 hash = "e655ea36068374ce68e0ca27246da1a23719e4885f8d6768346f29558a991a6d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn04.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn04.png"
 hash = "8fa447e743e7208845f13c653fa71d4ba9f51f9df09969461956f2de62a83c59"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn05.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn05.png"
 hash = "e4abead94df2985bb7bd4620a3b69115c87de834686277c10a86f72a01461001"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn06.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn06.png"
 hash = "ece177a369ce96e2e0a89c222e9924ad1fb327089a37676fa4293397f0f5b047"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn11.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn11.png"
 hash = "8c5c95351e355ca8771bb103785b44b207fdeb3a1a73ed7b4f06480d6f419499"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn12.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn12.png"
 hash = "7f81b248d2f08b250a543cd755ecf02fb2bd6bcb3aa0fc972215243aa36c6c99"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn13.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn13.png"
 hash = "15932e56f73ef90ca79684368a267ae497abcd4b727a031b3c612fc242be73d3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn14.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn14.png"
 hash = "068ab51b1e1b341adc258baeb1618d216bccc8cdbcf33a7af04db6de57d3dc29"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn15.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn15.png"
 hash = "d2115f2d03b36e322c7c766031e9e6035e8fcfaa066eeb0629dfc4b9b5052de9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn16.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn16.png"
 hash = "ae7b40021a6fbb4b5d99bd720a4ddb912ec8e3b42cfba3fbe021adf712552ae1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn21.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn21.png"
 hash = "7c94a2b5f6d01f7227aa721e6203ec6fd936c4b84c60c38f5d83dc84b186e550"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn22.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn22.png"
 hash = "2b8dd1e25992b3e1f23f95169a9dbbac21aedfe153cee73127791c99904832a0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn23.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn23.png"
 hash = "a104b5debffc5a6f03c73b61984a0a7c456b511ce00192039876f9acf4519304"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn24.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn24.png"
 hash = "5bc9d9c8353f656995a4c3aafd06f1a6907d10b2743dd928daf0c46d9ccbc699"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn25.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn25.png"
 hash = "c9d83913987f60e3495b56790224a2bbbc3e8c0cc8e496cbe8aa8df78b04f7f4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn26.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn26.png"
 hash = "76a5ee8b8713f10b055edc379bac19312be9023008344090facffe596272ae2c"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn31.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn31.png"
 hash = "18ba40221d4caa64488cbe51bfaf2ad4ba51b06fb26efdc28c79c9f6b0175a87"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn32.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn32.png"
 hash = "e145c6595af6e96dc93ac7342d0cc22801f705e8185a52336b781ca4051dfebc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn33.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn33.png"
 hash = "f52c9eca588bcce60dc63ca06e661821894ead5702b3fa790a21cd8c3727d025"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn34.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn34.png"
 hash = "86c608b99e7cb2495f06a6bfce930f543381b317cf881e5e037ae027a6131f17"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn35.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn35.png"
 hash = "6835de8f4da4a0a9ec8b82b11fb0f07b5f50ac27439ff711d1d8a9164419edb7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn36.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseundeadunicorn36.png"
 hash = "0d82a95e788ed1f832c7010e2ed350dc8cb42163d99aaafa14cc3b421c1eeeb6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseunicorn.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseunicorn.png"
 hash = "e046490295fabcd781298f7418d20132cd5e32b0634aeeb39ca7033ac29299b1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseunicorncrystaline.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseunicorncrystaline.png"
 hash = "67c3531ae8d7fa44c09ab323a90fad2ca9ae29a3ebf72f1c3ce5d938087a505b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horseunicornskeleton.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horseunicornskeleton.png"
 hash = "c49f5b37286d60865a4d013c37f31a0e06f1c3fe5c3ba506ab93f5c981b45394"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsewhite.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsewhite.png"
 hash = "9924966bab05f4caad82028504debe855905f40b7c6ed11c479a1f5f78b8f9c2"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsewhitediamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsewhitediamond.png"
 hash = "cc959b2015e41e3988232d19a9f873269e868a33cdd60f8e0bae69bad873004a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsewhitegold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsewhitegold.png"
 hash = "24a022dcf77bb8cce3a4310627fe1a15b8c9e6da89295db1ef9ef5fd9751a062"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsewhitemetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsewhitemetal.png"
 hash = "3d5c7e0c468d093a5ca2ed76d3e450995a380331742e04f56b4f1a812657558d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezebra.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezebra.png"
 hash = "86632678a7a681890b01aa0ffaca27fa9694f7ccf32ca6dbf1a8733496ce3079"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezebradiamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezebradiamond.png"
 hash = "3d3c77fe97c50d538872180cf6ac5d6e5349a64a733e2d9a460abbc5d7116934"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezebragold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezebragold.png"
 hash = "e62610d796f6a74de2e5a952c171691b9d451900ed36cf0abefa083b1d0e676e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezebrametal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezebrametal.png"
 hash = "eed3ee61855642cdd503ef3635ec06fba97f8390ab650e5e7239b85912facc8d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezonky.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezonky.png"
 hash = "c733824cccccdba60a1f61580ecedbc651028e7d1f4fb2431c0cd85f3bedc794"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezorse.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezorse.png"
 hash = "77159fa9bd51b431671ff3ea3d56b25335d49a7dc27eed4f002b256b45c81036"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezorsediamond.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezorsediamond.png"
 hash = "701009a1b635e3d2197e89ded5adfde80fc52b79d22d9a39a71f013462e6dfd1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezorsegold.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezorsegold.png"
 hash = "475bf48afb1a901ad40a3869a81d6576990d429df76c809a9e0de7b3ef9d8dc0"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/horsezorsemetal.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/horsezorsemetal.png"
 hash = "c10d8e6593a26c350c22db7cbe49aec833598c454b39a17bc43ae7deb053c672"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfisha.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfisha.png"
 hash = "6df13e27296a0e6e9628048b417613e812de628acbf37d9a125304f541bd950d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishb.png"
 hash = "e75e78cd8d81ae30d3b9496c46eebbb6484eb6b8679bbc0531445e13ebffa77b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishc.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishc.png"
 hash = "d0b970f4111851d4ec787d5713faa4a30b6b4a54ef66d4bd9eb78342b15c50c5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishd.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishd.png"
 hash = "6291c5e0edb3e87bfe5ee65635a5d81ef4250b5258e149a225f56398fb5c9bb9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishe.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishe.png"
 hash = "1bcf73152937ccf7f9f39bb5fabcf472b023a0d379866145d66a7f97472ab801"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishf.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishf.png"
 hash = "9367bddd817bb47e7e0e21861179f254345b30aa53014455d4278978d2c19379"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishg.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishg.png"
 hash = "f60ec30b7760c5b7bb091aa8583e59599d4c7feda5399e8d2811a5551eac749b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishh.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishh.png"
 hash = "6f0c18022bba0eeeffa2f64226a371a14582090f9cd6f453a63acb52173c7fdf"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishi.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishi.png"
 hash = "455ebf9718c4ddb5b36023baf6493a3016b722fb8ca40468528b3af3e3e9ad78"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishj.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishj.png"
 hash = "ee1bb9fdb17417fb6196d7c8b45eab059bdb2fdd94817e212a6230906413f39d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishk.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishk.png"
 hash = "76eb081b74e6d60f6a47a8882e6c16aa83614300c2938bf2a62272e9894b0e71"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jellyfishl.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jellyfishl.png"
 hash = "3dd050bc1eb7c7ad4060ccfacf9d875f7ff7e8125915197b08ed0039d4f405f3"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/jungle wyvern.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/jungle wyvern.png"
 hash = "6ddf479aa66701b38c75a8d619026b66064063ff25378fd3ebd4e703398a4ede"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/komododragon.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/komododragon.png"
 hash = "2e89cc6263188f4bffdd6655053ff91c80fed9c02d25169cd0330f704e2d30e5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/maggot.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/maggot.png"
 hash = "f3e0eb4a907a771386aaf1bdc26641902be7d163f5c683e9496398bf903de9fb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mammoth.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mammoth.png"
 hash = "4f974e82e16a66fcae0813c8564045992d1d15a4915727e2550723b78eb5ea7d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mammothsonghua.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mammothsonghua.png"
 hash = "73bce1e712e5297d4144fdf07facfc3f17a29d073e00421db8330c36d22ded45"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/manticore_2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/manticore_2.png"
 hash = "2b326a680ca5e71de9a691da329d66bdef85e3dca8ea0fe3f008cba95f18ebbc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mediumfish_bass.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mediumfish_bass.png"
 hash = "1b59742220294baa5e8d3381c890d40bed39e0e3a154ddd5b6b280b5f525db44"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mediumfish_cod.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mediumfish_cod.png"
 hash = "0d2bffda0abbf08ae6a3ba0c98ed9621b6565717861abb72b08e6a90ae5e1cdf"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mediumfish_salmon.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mediumfish_salmon.png"
 hash = "d4344ac063b6d63ef8c9b35bb5883aa3f7fe5e9c7cfa8a4639ccc3fa664c96eb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mole.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mole.png"
 hash = "ae9e18e9e23c664030ce9403f53a7f2edb203f3d09d972c361e02e13a0bfb66d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mothcamptogrammabilineata.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mothcamptogrammabilineata.png"
 hash = "dabfe429d13cf895675f2d9253051be4067112b1160067a3c96ba833b9673616"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/mothidiaaemula.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/mothidiaaemula.png"
 hash = "515224c8ac2b88e0a92eed6aa6d400b0206eca4dd9895f88b7ca437550bc905a"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/moththyatirabatis.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/moththyatirabatis.png"
 hash = "0749516a01eae128fe3ba97e72ec2dfbb1eae3c3bae623440f1d7c0136d015ef"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostricha.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostricha.png"
 hash = "2f1e5f59f0959b47083319dc27da81c175be732ae0003811e9ffeeb01ba4b9d9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostrichb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostrichb.png"
 hash = "cea231b64e1aac6ae68b07df7c39946f4352d7332f9748b24fd036470f4eb09d"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostrichc.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostrichc.png"
 hash = "a9f1ba84297689eb66786baef3a9dfac6906d8da12e718e2d63fb83a190f112e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostrichd.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostrichd.png"
 hash = "cedd70eb48b4bab75857841ead909cfce2f8349d216c147dd55c005ef2c00fa4"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostriche.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostriche.png"
 hash = "d4e279409038b2cad1ee81435542a7706649adf03513404059debdbfb182cf29"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostrichf.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostrichf.png"
 hash = "449494c17ea90d3a635bc8c9746e8c0d0906827ce052c0afb2690083560f0a80"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostrichg.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostrichg.png"
 hash = "339a3b914448ac7dc0523b2f23def20599c34b50a8a7da6776ed14497af5d5b5"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/ostrichh.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/ostrichh.png"
 hash = "2335616504212cf4857fca233b6035f5de37f666491c925d2b31d2cde435fe46"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/panther.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/panther.png"
 hash = "dbdd467965a35137ab79ec742fe6431484962957227122ff7fd439b27b581bbb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycata.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycata.png"
 hash = "456d20cbf44fd09b3aac817b8b5c24304f32e1a8f1825a7050b0e8ccc8e9da10"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycatb.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycatb.png"
 hash = "d88febd2354c6ba14faa317e493beb6442d2fe9c24f85a01bb91f6ab0fee4fe7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycatc.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycatc.png"
 hash = "c29514b6c5749ece848924af43b718ffdf5459b3b074247d81f54a67d55d62dc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycatd.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycatd.png"
 hash = "59a8dd559280edd604c2eca4fdb2257359b4c4f6570ef1b7f28d4f7ebcad8ffb"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycate.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycate.png"
 hash = "5edc1e0ce4ea466f5a14f2cde2bc506613df284eefe2cd02e1a6dc29fc8862da"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycatf.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycatf.png"
 hash = "01143e9c5325ce0bb492596d2fd9c3f4701a26ce5e2ba36ba526c61827e22358"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycatg.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycatg.png"
 hash = "52bcb9bcdb0001d82a3221c297ba1052c8d81301b66a3715d02e5f381a44c0e2"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycath.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycath.png"
 hash = "488aef324df8f6255f9a16b42887805f69a18c05bb33609a358480077b8b18e9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycati.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycati.png"
 hash = "e349862be6a736f4e1aa149176c6233679298b171c63d2b154100e5884519028"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/pussycatj.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/pussycatj.png"
 hash = "f0032edb139b03ac54f0f9db4644bc6f510d3fddceb2636672c319aea99fe777"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/raccoon.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/raccoon.png"
 hash = "988c694bba22bfb3c050f42d1704617ed74b5a692940c5a8351563c0bdf124dd"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/roach.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/roach.png"
 hash = "dba94f7390dfa546666ff4600fd6d779c38b85e9b76704e674925b4a534ea286"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpioncave.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpioncave.png"
 hash = "5c2921c90be2d6ccf5435621a9be4bb80614ba974115018e7ca2370cd3bfae2e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpioncavesaddle.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpioncavesaddle.png"
 hash = "29ecc1d9bdc5c5e46c0e68c55c724b2c0d5674319971b62014cba0faf65f768f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpiondirt.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpiondirt.png"
 hash = "416d41e7aa600ad492f4dac331f04b7a34ac6acbe41ca282564d53f749226e77"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpiondirtsaddle.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpiondirtsaddle.png"
 hash = "9560991879944f9ff513dfd46ab1a6cdb95ba9856c5992d696a3c0bdda3a09d9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpionfrost.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpionfrost.png"
 hash = "579c2e594b17bf2cb88d26b3c18c07ef729da94f968cada97a9ce3c44f13cb66"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpionfrostsaddle.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpionfrostsaddle.png"
 hash = "d3e6243050311c34dafaffd607b857a6d25f989ec286a750051e1291cdd3e6e8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpionnether.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpionnether.png"
 hash = "1d81d5954e9eebcbad1912ef4529aa8ed947b13c9522c2c797504abd055809bf"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpionnethersaddle.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpionnethersaddle.png"
 hash = "df496f57bfee85ffd1caf2d5ce64d854bef01fc14cd678fd79a9f5d3a6d8f49e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpionundead.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpionundead.png"
 hash = "db3bda8eb4759a88459d83cd4bb20982c2e697289abf32834116879dd4f44d82"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/scorpionundeadsaddle.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/scorpionundeadsaddle.png"
 hash = "dfa4c23f8ade7a6fb4875ae7080a0f3ce410a85a6987d6e818b84efa147c01cd"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/silverskeleton.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/silverskeleton.png"
 hash = "5727809ee252d366861f8afdc49c9c382bb12116184685d5cfd05cf8d9912879"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_anchovy.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_anchovy.png"
 hash = "d01a362c773d1f875e4d1f8bb960d99384b2fea703cf90a15bdbf2441e62d91f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_angelfish.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_angelfish.png"
 hash = "5a50a16254eba944a8df4cf52adaae674f7e6891d55433abb45b2816f358eea7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_angler.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_angler.png"
 hash = "f9be44f9929547f53725e0d35bf0c25df3d1885d6765398b0f1638e969c15285"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_clownfish.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_clownfish.png"
 hash = "c5f4a4313cad54f19a76fb1247a32305df230ef3c36b1ae27def35880e861b71"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_goldfish.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_goldfish.png"
 hash = "eb00781caf99dff5db48508a5ba8b30c0cc5bab7369ab9db76c925c50aa60fe1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_hippotang.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_hippotang.png"
 hash = "8a2cbc9e89691e031477559522265ada2b89258cab014eace41164b8f1df1057"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_manderin.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_manderin.png"
 hash = "281fdde931a5e4e8d68d47fa6763b7800c1b2137e0a7fe71b6f5a232e1a89387"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/smallfish_piranha.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/smallfish_piranha.png"
 hash = "c10064e3f2ac771bd6b0a4aef3689b1a3036930007b40eda659e805a3a7b26dc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake1.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake1.png"
 hash = "ca495dce9297ad08ac73d3781ac06b81fcecd5a8ebf391fa4f2ed286582a86fe"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake2.png"
 hash = "cd0fe257aed1cacc9f7a1bd6e41456f8a237734a1aa780cc82f348e80e2c7e36"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake3.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake3.png"
 hash = "6231492543c42a376eb919d765643b9ff815157517173c070c4bd9b785f0f3df"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake4.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake4.png"
 hash = "7702c96ba7699c51215b7cbd912a24300409fd4b4a35dde1f604111267f77a05"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake5.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake5.png"
 hash = "f45703fbbfe02700a940ad5bcdd7b36b5212220ec23e9be4e68fb4ce01121c92"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake6.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake6.png"
 hash = "358c59b8ecf8676aa0a906d5d3605f53b97abd11d71db18c27d99eac5cbcdac6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake7.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake7.png"
 hash = "899552f2c2198d790023a96b4ee26d38d20af45206cc396242d9d58ea4fc5d99"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snake8.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snake8.png"
 hash = "058f5e4178772f117925e1374b524a1446b5318c2f8322c2217b73e8b3b5eaa6"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/snowfox.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/snowfox.png"
 hash = "161b6cbbc8c5b53391ff1e9c54f9f30ef51f065297bcc2fe6cff7b2ea4223cd8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/stingray.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/stingray.png"
 hash = "1803adefa2aa5de5d3a6cede9f41439f3979c3c2e113c1c85e3610a9d0ec8e77"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/turkey.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/turkey.png"
 hash = "8e5f44c48f8a439eec5b2a7500a7ae106d930540377354848c9e6b540f9cfcd7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/turkeybrown.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/turkeybrown.png"
 hash = "9ca74c8f6ff73aa5638bf2d8a9479a155b54b6f2c671c4eedc6fb93aae29bd51"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/turkeyfemale.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/turkeyfemale.png"
 hash = "03cca641f9b593ea35e8463662a2494ab66ac7ccd0f628620fcb2fa4302536ad"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolfblack.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolfblack.png"
 hash = "cd06563da76702d135ec2c255ba2d60a79608d000ad1738684d54ff957d64f99"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolfbright.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolfbright.png"
 hash = "9913985f258e17a29210eb98de9980f45f6ee5e315e3f1d7a202639ad3648019"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolfbrown.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolfbrown.png"
 hash = "993b0d0098b547070bf3f4020a50a9b5f809269fa6ee6a377f6fd04c6e57d032"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolfdark.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolfdark.png"
 hash = "2c192586adf5e3686a1782e105feb1eaa07e271ea9fcf22bf7266b5fbdf4fcd7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolffire1.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolffire1.png"
 hash = "e0a285d511c4fecbb44f919f858a3bd3f73748195527fac17b9d9756098517cc"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolffire2.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolffire2.png"
 hash = "e13cd402572faa9bc65b44a9c212734bdc6c5bd67ef3406c213e6709c679314b"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolffire3.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolffire3.png"
 hash = "100582ad0dc3dbf866eb43505ac9c744c4d4d86f301fee8fcebe9754aea04ec8"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolftimber.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolftimber.png"
 hash = "8a103d1c1e9284edb246ea7a5350eca8b076455e4274fe31fe080eac382d560e"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wolfwild.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wolfwild.png"
 hash = "9913985f258e17a29210eb98de9980f45f6ee5e315e3f1d7a202639ad3648019"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernarctic.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernarctic.png"
 hash = "e49c30ac34b3a4af2041ec735d815be3dd54fded61f289ad474375bd01f285ef"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyverncave.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyverncave.png"
 hash = "76d54c372762142473396fe3f6f5c6e9c05c4f85a43f30b0cf67c434b1e9a3a9"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyverndark.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyverndark.png"
 hash = "e4db5eddf361ddcb62d8e7574835701b1620c45758cf9b240b871032910ed24f"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernjungle.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernjungle.png"
 hash = "f0fc15db1dfb0ce4ea7331609f79ef1cd52801ee70a4571cb877e0d12b054ff7"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernlight.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernlight.png"
 hash = "44e48df0c647473199f49a8ddf22d5e46709348c4fbd84909f2812983d3f8e66"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernmix.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernmix.png"
 hash = "6e73c1fed4776d75ecbb389211528aeb65ac2c45ae5196c7e6ec3efbe512a525"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernmother.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernmother.png"
 hash = "f24e915ae10790d50feb08619da10db26f93d0689e05b7760bb993ac8141dbfe"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernmountain.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernmountain.png"
 hash = "a694cfda004b794d8930509dce4c44413886caf143fd5aa4786b6c4708c50503"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernsand.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernsand.png"
 hash = "fdb0e6610a1de93ea35b08f900b0231a8b939a18aec7937d81fa4f1270ab6315"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernsea.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernsea.png"
 hash = "25decf9ce08eac7173909cc8741cd665e35b6cf9f7210a09e7a248243bc66ea1"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernsun.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernsun.png"
 hash = "cf48c90ba6d18f750389ca01adb33f32eaf065094718465abf616a6d46458167"
 
 [[files]]
-file = "texturepacks/vanilla/assets/mocreatures/textures/models/wyvernundead.png"
+file = "resourcepacks/vanilla/assets/mocreatures/textures/models/wyvernundead.png"
 hash = "f7c3ba58cbe3533aad395f24d0f810984743a9479f0d434cc4c02d36a829190f"
 
 [[files]]
-file = "texturepacks/vanilla/pack.mcmeta"
+file = "resourcepacks/vanilla/pack.mcmeta"
 hash = "cfa86f004632de919ae1fdc2ac16d354d2249a34c8d0b5c876bebaf8f8aae3a3"
 
 [[files]]
-file = "texturepacks/vanilla/pack.png"
+file = "resourcepacks/vanilla/pack.png"
 hash = "10ea962aa2aefe2c682a16f070c1547eaf012a7fc6b1b13c7aed59e8c149ee89"
+
+[[files]]
+file = "servers.dat"
+hash = "7ef81bd78ff27f7d93ceb9c090008db89f844fb862f5e2604206c8de5fca889f"
