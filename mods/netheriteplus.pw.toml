@@ -1,0 +1,13 @@
+name = "NetheritePlus+"
+filename = "NetheritePlus_1.7.10_Beta0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02974a7189e9f023f386ea41c1c37551650469f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2983061
+project-id = 376911
