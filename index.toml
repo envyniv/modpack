@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/project-74246.pw.toml"
-hash = "115808077c2cfa5e8ea451adff42df3bab927792415323a0a88dc343c6a4672e"
+hash = "db81e8f3f18a81f24ad0839de9ab775f3c086f45d22cdef5e524d6737f43b99a"
 metafile = true
 
 [[files]]
@@ -792,12 +792,12 @@ metafile = true
 
 [[files]]
 file = "mods/recurrent-complex-unofficial.pw.toml"
-hash = "f3cd34b43035a07cd2dcd2ca9d9ab193783aa5277208ffc02a83e4732f2f633f"
+hash = "3b518b5041d2c694c9cc09b9816fd8ef2fbbd9a22ef21b68ec62d18fe9f15703"
 metafile = true
 
 [[files]]
 file = "mods/roguelike-dungeons.pw.toml"
-hash = "86123aa12b70d9ddeb62d54bc55573b44d907ef21bffe387cbc9e0113466e78d"
+hash = "bb87f4ff7232be73124f4c64405f8cb91cbee4811885ab189572c11d9eb5cf51"
 metafile = true
 
 [[files]]

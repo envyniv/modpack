@@ -1,6 +1,6 @@
 name = "Roguelike Dungeons"
 filename = "roguelike-1.7.10-1.5.0b.jar"
-side = "optional"
+side = "both"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,6 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 2294894
 project-id = 221585
+
+[option]
+optional = true

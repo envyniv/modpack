@@ -1,6 +1,6 @@
 name = "Recurrent Complex Unofficial"
 filename = "RecurrentComplex-0.9.7.1.2_Unoffical.jar"
-side = "optional"
+side = "both"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,6 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3108489
 project-id = 419129
+
+[option]
+optional = true
