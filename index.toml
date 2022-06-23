@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
-hash = "d20c5e3307203ec1d5286864494e149d1364168449e3c3aa5c585fac9785777d"
+hash = "52e4224493d2f1f3ef9db5a540b33542df96c512a7da6590e1e0b9b4221550c2"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/log4j2-jndi-exploit-fix.pw.toml"
-hash = "ae675f07093d80a91adcade256e46f646c1cda7b5c81e97a6dc3410a9f3926b6"
+hash = "45dcfb9541757f0de9a5a24170917dd25a3fa96842c9dc166741ba9b8ff9b2fb"
 metafile = true
 
 [[files]]
