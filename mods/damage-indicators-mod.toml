@@ -1,6 +1,6 @@
 name = "Damage Indicators Mod"
 filename = "DamageIndicatorsMod-3.3.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://archive.org/download/damage-indicators-mod-3.3.2/DamageIndicatorsMod-3.3.2.jar"

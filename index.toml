@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/damage-indicators-mod.toml"
-hash = "df97937a08065ef8bba20df4da55502a8dcd94a5a05076383a993e0dd20d1bfc"
+hash = "4eb57ce0252c98378c64c3b69cb74603f96413d78179f8423531ce62f778bf45"
 metafile = true
 
 [[files]]
