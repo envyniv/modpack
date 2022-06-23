@@ -461,6 +461,10 @@ file = "config/pandorasbox.cfg"
 hash = "e94412327c8ad2f635e93bdb10606d86eb87da53977c3f2f945d8cf7c745f922"
 
 [[files]]
+file = "config/reccomplex.cfg"
+hash = "8b20b30e547e3ec2e6fb34b59b2cc13cb2d2a449e56f2d15f644904378027190"
+
+[[files]]
 file = "config/splash.properties"
 hash = "7dad2745ddc1fed1f580947fd71ef57048ca585dd6f825ecc699031a22bdbef8"
 
@@ -694,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/llibrary.pw.toml"
 hash = "4670342149d058db268c97e7a3742f77cbc075e9051388cc960346e68bfd5920"
-metafile = true
-
-[[files]]
-file = "mods/log4j2-jndi-exploit-fix.pw.toml"
-hash = "45dcfb9541757f0de9a5a24170917dd25a3fa96842c9dc166741ba9b8ff9b2fb"
 metafile = true
 
 [[files]]
